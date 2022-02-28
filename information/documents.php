@@ -67,6 +67,7 @@ include_once("include/topnav.php");
 				<li><a href="https://www.facebook.com/APO-Compliments-Spring-2020-115121043370901/" target = "_blank">APO Compliments Form</a></li>
 				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdPnubmuQwhKJhf4JtFFxzTDjkflzsvxbmO2DUSQHdlkOI6PA/viewform" target = "_blank">TOWNHALL - Bylaw Changes Form</a></li>
 				<li><a href="https://forms.gle/wjtJziux5ufDEyvr8" target = "_blank">Open Evaluations Form</a></li>
+				<li><a href="https://forms.gle/Tce1EWY3hdDyKSJZ8" target ="_blank">Outside Service Hours Submission Form</a></li>
 			</ul>
 
 		 <h3>Academic Documents</h3>
