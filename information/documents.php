@@ -45,10 +45,6 @@ include_once("include/topnav.php");
                 	</ul>
                 	<ul>
 
-                		<li><a href = "https://docs.google.com/document/d/1pn-ziU0mPktuEIpjjbMkLmPAZUX9Ac1o_Uuv8bcNs74/edit?usp=sharing" target = "_blank"> D&I Opportunities</a></li>
-                	</ul>
-                	<ul>
-
                 		<li><a href = "https://docs.google.com/spreadsheets/d/1lCCRz0nA3raejqXYLtyp9kCoU0Ifqsjh-GvsyyR458U/htmlview" target = "_blank"> Service + Phil Opportunities (Fall 2021)</a></li>
                 	</ul>
 			<ul>
@@ -68,6 +64,7 @@ include_once("include/topnav.php");
 				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdPnubmuQwhKJhf4JtFFxzTDjkflzsvxbmO2DUSQHdlkOI6PA/viewform" target = "_blank">TOWNHALL - Bylaw Changes Form</a></li>
 				<li><a href="https://forms.gle/wjtJziux5ufDEyvr8" target = "_blank">Open Evaluations Form</a></li>
 				<li><a href="https://forms.gle/Tce1EWY3hdDyKSJZ8" target ="_blank">Outside Service Hours Submission Form</a></li>
+				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSerlbmmR5xYltbf6yuyHvDYR2dwOadl7RVrCmYk3zuy6Jjupw/viewform?usp=sf_link" target="_blank">Fellowship Series Form</a></li>
 			</ul>
 
 		 <h3>Academic Documents</h3>
