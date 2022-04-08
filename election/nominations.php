@@ -60,7 +60,7 @@ include_once("include/topnav.php");
 			?>
 			<div class="contentBox">
 				<p>Please review the <a href="https://drive.google.com/file/d/1Y8UWvkfbvm5vKxD8qb0UGVkbQytIj8ew/view?usp=sharing">Officer Descriptions</a>, 
-					<a href="https://drive.google.com/open?id=13ebg2IfQ2B013lQxT5ZO1FjwKA4g-4k9">Bylaws</a>, and <a href="https://drive.google.com/file/d/12XU7bJEfez57oS-Bz9YX54yJQcB9cJJI/view?usp=sharing">Officer Election Policy</a> 
+					<a href="https://docs.google.com/document/d/1nuyNJ20uq6Qm4r6VsSxCfP-Kz-kQDoUWhZlS1ZlxCgs/edit">Bylaws</a>, and <a href="https://drive.google.com/file/d/12XU7bJEfez57oS-Bz9YX54yJQcB9cJJI/view?usp=sharing">Officer Election Policy</a> 
 					for procedures regarding elections and for a list of each position's responsibilities. If you wish to decline your nomination, please click "[Decline]" next to your name, or email <a href="mailto:webmaster.apousc@gmail.com">webmaster.apousc@gmail.com</a> 
 					so that the website administrator may decline on your behalf. 
 					
