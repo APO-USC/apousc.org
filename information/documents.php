@@ -109,7 +109,7 @@ include_once("include/topnav.php");
 								<div>
 								<ul>
 									<!-- Updated Spring 2021 -->
-									<li><a href="https://drive.google.com/file/d/1dUqkdHWUW7_R-rRHxBXHyqERWM4dHlf4/view?usp=sharing" target = "_blank">Bylaws</a></li>
+									<li><a href="https://docs.google.com/document/d/1nuyNJ20uq6Qm4r6VsSxCfP-Kz-kQDoUWhZlS1ZlxCgs/edit" target = "_blank">Bylaws</a></li>
 									<!-- Updated Spring 2015 -->
 									<li><a href="https://drive.google.com/file/d/1oyHvE_AcHis1i_HdOB7jGNKrtJc4tUGS/preview?format=pdf" target = "_blank">Officer Descriptions</a> </li>
 									<!-- Updated Spring 2015 -->
