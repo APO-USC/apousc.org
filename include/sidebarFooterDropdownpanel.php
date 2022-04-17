@@ -89,8 +89,8 @@ HERE;
 	<h5>Information</h5>
 	<ul>
 		<!--Only needed during Officer Nominations period -->
-		<li><a href="../election/nominations.php"><strong>Nominations</strong></a></li> 
-<!-- 		<li><a href="../election/election_documents.php"><strong>Candidate Documents</strong></a></li>  -->
+<!-- 		<li><a href="../election/nominations.php"><strong>Nominations</strong></a></li>  -->
+		<li><a href="../election/election_documents.php"><strong>Candidate Documents</strong></a></li> 
  		<li><a href="https://docs.google.com/document/d/1TP5goDQeJ1hpN6Z9H2wlY6DAevSg_3r2_hMZnui6f6k/edit?usp=sharing"><strong>A-Board Applications</strong></a></li>
 <!-- 		<li><a href = "https://experienced-allosaurus-19a.notion.site/ACTIVE-FAQs-f697522e3ac64003b2902479bbb44b5e" target="_blank"><strong>FAQ for Recruitment</strong></a></li> -->
 <!-- 		<li><a href = "https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1l2LxYj0xa9CrKhnwJ2y8-0asmtRAh5-nMGlXVY5jPRI%2Fedit%3Fusp%3Dsharing&h=AT2feeVCLVQK6kPy8rAOU9tCe5Rc_Mo5HyftLXxtISx6hmFfWPUXdRRvuq7iBxgk8kchv1Hl6tiSZnEW-7LUYHoNRY08loDnF6IlltRS6ZZnRHNNZvLaG4V_IhFo9po3aBwe2I6IjtPCfic&s=1" target="_blank"><strong>Recruitment Master Doc</strong></a></li> -->
