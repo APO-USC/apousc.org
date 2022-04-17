@@ -48,84 +48,92 @@ include_once("include/topnav.php");
           
            <h3>President</h3>
 	    <ul> 
-            <li><b>Trinity Yang</b></li>
-            <ul><a href = "https://drive.google.com/file/d/1evR2r8htlauzaDQf0QjMEWSitStkVqjT/view?usp=sharing"> Application </a></ul>
-            <ul><a href = "https://drive.google.com/file/d/1uYpyCvgIiw4XmOmW7PzW9m89yLFAbh9j/view?usp=sharing"> Resume </a></ul>
-	    <ul><a href = "https://drive.google.com/file/d/1XUt2-sANKqcjtHhg7PUjChBBVmsk4L3a/view?usp=sharing"> Schedule </a></ul>
+            <li><b>Bethany Cheng</b></li>
+              <ul><a href = "https://drive.google.com/file/d/16J_7ZlnL5czpvqFwhrK-8Amtni1H2hYF/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/18q3FK8dUtkvaXUYilVZ-7LgAlvhWU9q2/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1zWN5_Jq22CBHs1y2TyYSdV7xSTbQLxc8/view?usp=sharing" target="_blank"> Schedule </a></ul>
             </ul>
            
 
           <h3>New Member Educator</h3>
            <ul>    
-           <li><b>Tam Hoang</b></li>
-            <ul><a href = "https://drive.google.com/file/d/1LvfMRHL20uRzkwvjm2rwjt6lE3yP-T-6/view?usp=sharing"> Application </a></ul>
-            <ul><a href = "https://drive.google.com/file/d/1xzdE1kY03FRa4Nn9ewAAzKEqtxqABl2Q/view?usp=sharing"> Resume</a></ul>
-	  <ul><a href = "https://drive.google.com/file/d/1hu_IvJwyLBF-URhVU6sR546PXAUJPbWG/view?usp=sharing"> Schedule </a></ul>
+           <li><b>Johann Kim</b></li>
+              <ul><a href = "https://drive.google.com/file/d/1KvELDSK8-85Nd9VHEmQGYtzruEef11VC/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/1f1zXZjqlqIAeXUtLs68eqKIpOK7tyiOH/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1rh_AKu_5y6Lb4D5mJrnNnUTF48DB7JCV/view?usp=sharing" target="_blank"> Schedule </a></ul>
+	   <li><b>Lilly Tran</b></li>
+              <ul><a href = "https://drive.google.com/file/d/1BOi0QeXge63cuRP0TNjQPNkPPapgbfCj/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/1OiDlZg7__ydKkiG25Ny_fujOdR_B2yUi/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1FvfmeHxAi9JGOSzkYS-9Cp9rXEtY0rqQ/view?usp=sharing" target="_blank"> Schedule </a></ul>
           </ul> 
 
           <h3>VP of Service</h3>
 	    <ul>
-            <li><b>Claire Jutabha</b></li>
-            <ul><a href = "https://drive.google.com/file/d/1MaQhjXYuRbmqnYhxsrEeDv0mlyO5GI-A/view?usp=sharing"> Application </a></ul>
-            <ul><a href = "https://drive.google.com/file/d/151lFnW2R3xumylV3FrDrRJBQ-fIN8-zI/view?usp=sharing"> Resume </a></ul>
-	    <ul><a href = "https://drive.google.com/file/d/1Bh6l6IdZAP-zE-J7hS5oQXN1FkYrfd-f/view?usp=sharing"> Schedule </a></ul>
+            <li><b>Jess Tadokoro</b></li>
+              <ul><a href = "https://drive.google.com/file/d/1tQ2dXzt0Pi0HsCDXWGBLwMT5SCg6alf2/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/1B6Dw7yBHtPU0NmeacLGGX0mu9gz_0zG9/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1O0DpQkC1Enx2SqgSwQLdeIlMnoayPVmy/view?usp=sharing" target="_blank"> Schedule </a></ul>
              </ul> 
 
           <h3>Co-VP of Membership</h3>
 	    <ul>
-            <li><b>Matthew Torres</b></li>
-            <ul><a href = "https://docs.google.com/document/d/1twLV5lghJ-yR1xB-mbP3Gc5Vpg-iKED8/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true"> Application </a></ul>
-            <ul><a href = "https://drive.google.com/file/d/158SowpdM8SDbnsVOZFiW2W8d6t0JX3WJ/view?usp=sharing"> Resume </a></ul>
-	    <ul><a href = "https://drive.google.com/file/d/1eznMk1fU7659T75gqgl4wyPRMi0mKBIW/view?usp=sharing"> Schedule </a></ul>
-            <li><b>Samantha Lei</b></li>
-            <ul><a href = "https://docs.google.com/document/d/1upnmr4XvqA7G9soBS67qfoyF45N_NkbY/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true"> Application </a></ul>
-            <ul><a href = "https://docs.google.com/document/d/1ZrLnS7EczpGz1qZ1TgMFcQtpvv3FGS3j/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true"> Resume </a></ul>
-	    <ul><a href = "https://drive.google.com/file/d/185F2vzMZVjE58C1v2g5IFGUYeFa_fD7p/view?usp=sharing"> Schedule </a></ul>
+<!--             <li><b></b></li>
+              <ul><a href = ""> Application </a></ul>
+              <ul><a href = ""> Resume </a></ul>
+	    	<ul><a href = ""> Schedule </a></ul>
+		<li><b></b></li>
+              <ul><a href = ""> Application </a></ul>
+              <ul><a href = ""> Resume </a></ul>
+	    	<ul><a href = ""> Schedule </a></ul> -->
             </ul>
 
           <h3>VP of Fellowship</h3>
 	    <ul>
-             <li><b>Michelle Wu</b></li>
-            <ul><a href = "https://drive.google.com/file/d/1wKbJJL-bYSawci0QurKAycug43b1t0wF/view?usp=sharing"> Application </a></ul>
-            <ul><a href = "https://drive.google.com/file/d/1YVvSDj15aTAxrT3e36G-3pu6GMDBJat-/view?usp=sharing"> Resume </a></ul>
-	    <ul><a href = "https://drive.google.com/file/d/1xktOQVQa8tqhGLEtNKK6suoVeYygZY-9/view?usp=sharing"> Schedule </a></ul>
+             <li><b>Ryan Tsang</b></li>
+              <ul><a href = "https://docs.google.com/document/d/1tCCYAQIm5gn6aikedvknuhzas51p_qyFLriaozb10q8/edit?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://docs.google.com/document/d/1UuOTLG677ltsTujtb4Qk7bqSzt4Hj77BfNbXFVII-I0/edit?usp=sharing" target="_blank"> Resume </a></ul>
+<!-- 	    	<ul><a href = "" target="_blank"> Schedule </a></ul> -->
 	</ul>
 
           <h3>Co-VP of Finance</h3>
 		<ul>
-		  <li><b>Queenie Quan</b></li>
-		<ul><a href = "https://docs.google.com/document/d/1kQvHvPVbdSezIm2k497dVSngfgG4Wwn-/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true"> Application </a></ul>
-                <ul><a href = "https://drive.google.com/file/d/1MYan1ft6it8CwmsVGet5pH_Bj-m0z0D4/view?usp=sharing"> Resume </a></ul>
-	   	<ul><a href = "https://drive.google.com/file/d/16tXhZc3AWGx_VRACP8nj5qIivCFXixL3/view?usp=sharing"> Schedule </a></ul>
-                <li><b>Lilly Tran</b></li>
-                <ul><a href = "https://drive.google.com/file/d/1jd_tdzhfwJwIfTplYeWIdMVcrrcoN_DX/view?usp=sharing"> Application </a></ul>
-                <ul><a href = "https://drive.google.com/file/d/1FD5yk2XuOkXcPuZrglPgMsoA1C8ATuwD/view?usp=sharing"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1mGQKw5GJDyHhO1_hfuA_6xko9Jn4NIbW/view?usp=sharing"> Schedule </a></ul>
+		  <li><b>Stephen Nguyen</b></li>
+              <ul><a href = "https://docs.google.com/document/d/1HgtjHtJguoO99hcHDvSOrHG5vY43tmg0/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Application </a></ul>
+              <ul><a href = "https://docs.google.com/document/d/1RsJkZUnfnIENEKfmU6-_LggQL48maGd-/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1qI35SGE6dm9iEh3Urm7tJ1i1ob1XiIdf/view?usp=sharing" target="_blank"> Schedule </a></ul>
+                <li><b>Tammy Kongboonma</b></li>
+              	<ul><a href = "https://docs.google.com/document/d/1kyCF7xi8XRuVI5Px3ZHrwa9vBQv2mBsN/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Application </a></ul>
+              	<ul><a href = "https://drive.google.com/file/d/1APUIVShT7tRd3d6djh02R0fegRENgjot/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1tNDkup-Yy4LWPhFTUl9bfBjweA1Up6sv/view?usp=sharing" target="_blank"> Schedule </a></ul>
               </ul>
 
           <h3>VP of Communications</h3>
 		<ul>
-                <li><b>Gabriel Genito</b></li>
-                <ul><a href = "https://docs.google.com/document/d/1BPri0Mb3OIM5lQhA5kISNgbMRIqjQMep/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true"> Application </a></ul>
-                <ul><a href = "https://drive.google.com/file/d/1n260JjPxLnMk6OzDsS79bCD902TAvjki/view?usp=sharing"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1w7gk4bIqnqXGpeFI89L4QaVGx9qu7cjL/view?usp=sharing"> Schedule </a></ul>
+                <li><b>Jackie Wu</b></li>
+              <ul><a href = "https://drive.google.com/file/d/1noj6mqNpU4W16i6deCUfGeZMbIuHs3iD/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/16Paqv0LMGP8pAxYcZraTgCS4_P9PvMg6/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1kUwnFOl6YNOYL1Bsaknbl50mJMe4pKWd/view?usp=sharing" target="_blank"> Schedule </a></ul>
               </ul>
             
                   
           <h3>Interchapter Chair</h3>
            	<ul>
-              <li><b>Ryan Tsang</b></li>
-              <ul><a href = "https://drive.google.com/file/d/1rU24fyqA0tqY31UX3U3chqr6J5AchVIs/view?usp=sharing"> Application </a></ul>
-              <ul><a href = "https://drive.google.com/file/d/1dy3k2f5sf7RJ2ulPtvl4B4g6glvc8BOh/view?usp=sharing"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1vfZ7iXP66LW2gAVaW7dsy0sfeAQH6MHv/view?usp=sharing"> Schedule </a></ul>
+              <li><b>Angelique Calma</b></li>
+              <ul><a href = "https://drive.google.com/file/d/19O47VxISF69ERqQfJDpIPZzJpzJTBff6/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/1Hw9A_a5HHGeu1Gxz5Lwl_e2fNMTfQ8kG/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/186-s3w1xxChh882DJaaM6Pdn3nK5Jh9f/view?usp=sharing" target="_blank"> Schedule </a></ul>
             </ul> 
 
 <h3>Diversity and Inclusion Chair</h3>
 		<ul>
-              <li><b>Jonathan Fu</b></li>
-              <ul><a href = "https://drive.google.com/file/d/1K1B5vYCLJJ0lSePdKSRpHy4w7wO4h3Lo/view?usp=sharing"> Application </a></ul>
-              <ul><a href = "https://drive.google.com/file/d/1sBh4lOnogW9WV4qelWQ-TH8oNeRUq-jZ/view?usp=sharing"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1DYWGTulMg15kW-GuLyYhU7FE_ic5O539/view?usp=sharing"> Schedule </a></ul>
+              <li><b>May Song</b></li>
+              <ul><a href = "https://drive.google.com/file/d/1qp3ycYro94h7XFrM9uMudsx-U1wn_nhS/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/1ErJYmhlZ4Hi3BBXIZ3xC5Ci8FhRGua5v/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1MIH_GiTYF1AI2YYSmeEqhjVDEK51D6qL/view?usp=sharing" target="_blank"> Schedule </a></ul>
+		<li><b>Adam Parish</b></li>
+              <ul><a href = "https://drive.google.com/file/d/1m_iPMEhC-_W9IWykKEQ1D8uJJrPazq-p/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/1LDJ3zKNzfMxa1VJCc46m9fhj6a8ZHv1Y/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1_iHE3x7gHrr7a7Cnie0WRESvVKijDwyC/view?usp=sharing" target="_blank"> Schedule </a></ul>
 		</ul>
     
 			<p class="bottomNote">Note: <abbr title="Portable Document Format">PDF</abbr> files require the Adobe Reader from Adobe Systems, Incorporated. Adobe and the Adobe logo are trademarks of Adobe Systems, Incorporated. Click on the following link to download.</p>
