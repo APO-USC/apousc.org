@@ -58,7 +58,7 @@ include_once("include/topnav.php");
           <h3>New Member Educator</h3>
            <ul>    
            <li><b>Johann Kim</b></li>
-              <ul><a href = "https://drive.google.com/file/d/1KvELDSK8-85Nd9VHEmQGYtzruEef11VC/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/1QxyVaBq7lU8UkHGAbThJ5YhhQYubFPeK/view?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://drive.google.com/file/d/1f1zXZjqlqIAeXUtLs68eqKIpOK7tyiOH/view?usp=sharing" target="_blank"> Resume </a></ul>
 	    	<ul><a href = "https://drive.google.com/file/d/1rh_AKu_5y6Lb4D5mJrnNnUTF48DB7JCV/view?usp=sharing" target="_blank"> Schedule </a></ul>
 	   <li><b>Lilly Tran</b></li>
