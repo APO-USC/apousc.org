@@ -92,7 +92,7 @@ include_once("include/topnav.php");
              <li><b>Ryan Tsang</b></li>
               <ul><a href = "https://docs.google.com/document/d/1tCCYAQIm5gn6aikedvknuhzas51p_qyFLriaozb10q8/edit?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://docs.google.com/document/d/1UuOTLG677ltsTujtb4Qk7bqSzt4Hj77BfNbXFVII-I0/edit?usp=sharing" target="_blank"> Resume </a></ul>
-<!-- 	    	<ul><a href = "" target="_blank"> Schedule </a></ul> -->
+	    	<ul><a href = "https://drive.google.com/file/d/1lvE7NI2v2lseB1h28R6fwOqa17JZEGDG/view?usp=sharing" target="_blank"> Schedule </a></ul>
 	</ul>
 
           <h3>Co-VP of Finance</h3>
