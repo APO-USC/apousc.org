@@ -1706,7 +1706,7 @@ date_default_timezone_set('America/Los_Angeles');
 		   $this->username == "qquan" || // finance
 		   $this->username == "lntran" || // finance
 		   $this->username == "ggenito" || // communications
-		   $this->username == "rjtsang" || // interchapter
+		   $this->username == "bcalma" || // interchapter
 		   $this->username == "woosarah" || // sec
 		   $this->username == "dayonlee" || // creative director
 		   $this->username == "dleman" || // almuni
