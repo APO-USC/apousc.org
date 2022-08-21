@@ -287,7 +287,7 @@ if (mysql_num_rows($result) > 0) {
         //vp comm
         ($session->username == "ggenito" && $req_event_info['type'] == 8) || 
         //ic chair
-        ($session->username == "rjtsang" && $req_event_info['type'] == 3) || 
+        ($session->username == "bcalma" && $req_event_info['type'] == 3) || 
         //special events coord
         ($session->username == "woosarah" && $req_event_info['type'] == 9) || 
         //creative director
@@ -402,7 +402,7 @@ if (mysql_num_rows($result) > 0) {
         //vp comm
         ($session->username == "ggenito" && $req_event_info['type'] == 8) || 
         //ic chair
-        ($session->username == "rjtsang" && $req_event_info['type'] == 3) || 
+        ($session->username == "bcalma" && $req_event_info['type'] == 3) || 
         //special events coord
         ($session->username == "woosarah" && $req_event_info['type'] == 9) || 
         //creative director
