@@ -1694,28 +1694,29 @@ date_default_timezone_set('America/Los_Angeles');
 	function isOfficer()
 	{
 		if (($this->position >= 1 && $this->position <= 20)|| $this->position == -1 || $this->isAdmin() ||
-		   $this->username == "kjma" || // webmaster
-		   $this->username == "tamhoang" || // pledge master
-		   $this->username == "aaronval" || // puncle
-		   $this->username == "anjelict" || // puncle
-		   $this->username == "clarecho" || // pauntie
-		   $this->username == "jutabha" || // service
-		   $this->username == "alfredot" || // membership
-		   $this->username == "samantyl" || // membership
-		   $this->username == "mwu20216" || // fellowship
-		   $this->username == "qquan" || // finance
-		   $this->username == "lntran" || // finance
-		   $this->username == "ggenito" || // communications
+		   $this->username == "nhchu" || // webmaster
+		   $this->username == "maxhuang" || // pledge master
+		   $this->username == "jekim" || // puncle
+		   $this->username == "clee4869" || // puncle
+		   $this->username == "samantyl" || // pauntie
+		   $this->username == "jtadokor" || // service
+		   $this->username == "csu" || // membership
+		   $this->username == "aaronval" || // membership
+		   $this->username == "rjstang" || // fellowship
+		   $this->username == "kongboon" || // finance
+		   $this->username == "snguyen4" || // finance
+		   $this->username == "jcwu" || // communications
 		   $this->username == "bcalma" || // interchapter
-		   $this->username == "woosarah" || // sec
-		   $this->username == "dayonlee" || // creative director
-		   $this->username == "dleman" || // almuni
-		   $this->username == "kuloszew" || // historian
-		   $this->username == "wahlgren" || // phil
-		   $this->username == "bohler" || // phil
-		   $this->username == "ipeng" || // rush
-		   $this->username == "mlwang" || // rush
-		   $this->username == "jfu12446"  // d&i
+		   $this->username == "jhvu" || // sec
+		   $this->username == "heidiluo" || // creative director
+		   $this->username == "neilapat" || // almuni
+		   $this->username == "dvpham" || // historian
+		   $this->username == "amgriffi" || // phil
+		   $this->username == "jsibrian" || // phil
+		   $this->username == "bohler" || // rush
+		   $this->username == "kuloszew" || // rush
+		   $this->username == "amparish" || // d&i
+		   $this->username == "euijinso"  // d&i
 // 		   $this->username == "ggenito" ||// omega fam head
 // 		   $this->username == "lntran" || // phi fam head
 // 		   $this->username == "jennaogi" // alpha fam head
