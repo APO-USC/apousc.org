@@ -29,54 +29,55 @@ include_once("include/topnav.php");
 ?>
 <br />
 			<h2>Finance</h2>
-			<p>If you don't see what you're looking for, just contact Queenie Quan or Lilly Tran!</p>
+			<p>If you don't see what you're looking for, just contact Stephen Nguyen or Tammy Kongboonma!</p>
 
-                <h3>Spring 2022 Information</h3>
+                <h3>Fall 2022 Information</h3>
                 <ul>
-                    <li><a href='https://docs.google.com/spreadsheets/d/1qaElKBSyFNGHO4g7xOjabfuVr89o2-eh84t5SgJtRiw/edit?usp=sharing' target = "_blank">Budget</a></li>
-                    <li>Venmo: @apoakusc</li>
-                    <li>Email: <a href="mailto:finance.apousc@gmail.com">finance.apousc@gmail.com</a></li>
-			<li><a href='https://forms.gle/QXumnz4a7fb8QZJi6' target = "_blank">Financial Aid Application</a></li>
-			<li><a href='https://docs.google.com/spreadsheets/d/13YhwYRl9CbMReKS98Kb_6XWKXJT8-tWoZs4HRDJEPH0/edit#gid=0' target = "_blank">Dues Breakdown</a></li>
-			<li><a href='https://docs.google.com/spreadsheets/d/1x9XIh9mjRXdK5HI4_aqES2yVP0TQ-4vDHp-YxXfPsJo/edit?usp=sharing' target = "_blank">Semester Calendar</a></li>
+                    	<li><a href='https://docs.google.com/spreadsheets/d/1WTRFerY_JFQieVyqGrAAkSdBSB5qhYVdL1o8znT3TlU/edit?usp=sharing' target = "_blank">Budget</a></li>
+                    	<li>Venmo: @apoakusc</li>
+                    	<li>Email: <a href="mailto:finance.apousc@gmail.com">finance.apousc@gmail.com</a></li>
+			<li><a href='https://forms.gle/44W9X6WyBFYDxaw67' target = "_blank">Financial Aid Application</a></li>
+			<li><a href='https://docs.google.com/spreadsheets/d/1wW-af19R6kRcxmVb-mHnXxnwedHr75pXC8Bxtmrcqzo/edit?usp=sharing' target = "_blank">Dues Breakdown</a></li>
+<!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1x9XIh9mjRXdK5HI4_aqES2yVP0TQ-4vDHp-YxXfPsJo/edit?usp=sharing' target = "_blank">Semester Calendar</a></li> -->
                 </ul>
                 
                 <h3>Dues</h3>
-                <p>Please contact Queenie Quan or Lilly Tran if you need additional financial accommodations for our payment plans.</p>
+                <p>Please contact Stephen Nguyen or Tammy Kongboonma if you need additional financial accommodations for our payment plans.</p>
 		<p>Payments due @ 11:59 PM of each deadline or your account will be frozen :(</p>
 		<h4><b>Actives: $140 early bird, $145 regular</b></h4>
                 <h4><b>Associates: $55 regular</b></h4>
-		<h4><b>New Members: $325 regular</b></h4>
+		<h4><b>New Members: $310 regular</b></h4>
 		<p><b>Actives Payment Plan</b></p>	
                 <ul>
-			<li> Pay in full early bird - January 31: $140</li>
-                    <li>January 31: $50</li>
-                    <li>February 14: $50</li>
-                    <li>February 28: $45</li>
+			<li>Pay full September 12: $140</li>
+                    	<li>September 12: $50</li>
+                    	<li>September 26: $50</li>
+                    	<li>October 10: $45</li>
             	</ul>
 
              	<p><b>Associates Payment Plan</b></p>	
                 <ul>
-                    <li>January 31: $20</li>
-                	<li>February 14: $20</li>
-                    <li>February 28: $15</li>
+			<li>Pay full September 12: $55</li>
+                    	<li>September 12: $20</li>
+                	<li>September 26: $20</li>
+                    	<li>October 10: $15</li>
             	</ul>
 
 		<p><b>New Members Payment Plan</b></p>	
                 <ul>
-                    <li>February 21: $125</li>
-                	<li>March 7: $100</li>
-                    <li>March 28: $100</li>
+                    	<li>September 26: $110</li>
+                	<li>October 10: $100</li>
+                    	<li>October 24: $100</li>
             	</ul>
 				<p><b>*If you do not pay your dues and do not communicate with the VPs, we will have to freeze your account until the matter is resolved.</b></p>
 				
 				<h3>Reimbursements</h3>
 				
-				<p>In order to get reimbursed, please send your receipts to Queenie Quan or Lilly Tran at finance.apousc@gmail.com.</p>
+				<p>In order to get reimbursed, please send your receipts to Stephen Nguyen or Tammy Kongboonma at finance.apousc@gmail.com.</p>
 		<ul>
-                    <li><a href='https://forms.gle/yVdbgUXsz2ahTTqT8' target = "_blank">Driver Reimbursement Request Form</a></li>
-		    <li><a href='https://forms.gle/AnGrSUY3D7yFGW7N8' target = "_blank">Driver Reimbursement General Information Form</a></li>
-		    <li><a href='https://forms.gle/djetcadNP4LsKrzT7' target = "_blank">General APO Reimbursement Form</a></li>
+                    <li><a href='https://forms.gle/F86womvaGUk9ipVk7' target = "_blank">Driver Reimbursement Request Form</a></li>
+		    <li><a href='https://forms.gle/GFAZScJwdtTEyHiV8' target = "_blank">Driver Reimbursement General Information Form</a></li>
+		    <li><a href='https://forms.gle/sRc6k4DWA9kKmHir6' target = "_blank">General APO Reimbursement Form</a></li>
                 </ul>
 				
 <br />
