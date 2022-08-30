@@ -112,6 +112,7 @@ if (!$session->isAdmin() && !$session->isOfficer()) {
 									if (strcmp($form->value("sel_Type"),"") !== 0 && $form->value("sel_Type") == $i) {
 										$selected = " selected=\"selected\"";
 									}
+									
 									echo ("\t\t\t\t\t\t\t\t<option value=\"$i\"".$selected.">".$eventType[$i]."</option>\n");
 								}
 								?>
