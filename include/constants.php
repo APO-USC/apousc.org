@@ -339,7 +339,7 @@ $eventType = array(
     13 => "ICervice",
     14 => "Pledge Membership",
     15 => "Canceled",
-    16 => "Diversity & Inclusion"
+    16 => "Diversity, Equity, & Inclusion"
 );
 
 /**
