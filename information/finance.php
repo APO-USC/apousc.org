@@ -76,7 +76,7 @@ include_once("include/topnav.php");
 				<p>In order to get reimbursed, please send your receipts to Stephen Nguyen or Tammy Kongboonma at finance.apousc@gmail.com.</p>
 		<ul>
                     <li><a href='https://forms.gle/F86womvaGUk9ipVk7' target = "_blank">Driver Reimbursement Request Form</a></li>
-		    <li><a href='https://forms.gle/GFAZScJwdtTEyHiV8' target = "_blank">Driver Reimbursement General Information Form</a></li>
+		    <li><a href='https://forms.gle/GFAZScJwdtTEyHiV8' target = "_blank">Driver Reimbursement Car Information Form</a></li>
 		    <li><a href='https://forms.gle/sRc6k4DWA9kKmHir6' target = "_blank">General APO Reimbursement Form</a></li>
                 </ul>
 				
