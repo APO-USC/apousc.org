@@ -803,8 +803,7 @@ if (
 	($session->position == 33 && $req_event_info['type'] == 16) ||
 
 	(($session->position >= 25 || $session->position <= 28) && $req_event_info['type'] == 7)
-	||
-	$session->username == "kjma" // webmaster
+	
 ) {
 	/*************** SIGN UP FOR THE EVENT ***************/
 	?>
