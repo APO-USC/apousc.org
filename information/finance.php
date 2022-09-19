@@ -36,7 +36,7 @@ include_once("include/topnav.php");
                     	<li><a href='https://docs.google.com/spreadsheets/d/1WTRFerY_JFQieVyqGrAAkSdBSB5qhYVdL1o8znT3TlU/edit?usp=sharing' target = "_blank">Budget</a></li>
                     	<li>Venmo: @apoakusc</li>
                     	<li>Email: <a href="mailto:finance.apousc@gmail.com">finance.apousc@gmail.com</a></li>
-			<li><a href='https://forms.gle/44W9X6WyBFYDxaw67' target = "_blank">Financial Aid Application</a></li>
+			<li><a href='https://forms.gle/8WHqYGLrQsRGJaCZ7' target = "_blank">Financial Aid Application</a></li>
 			<li><a href='https://docs.google.com/spreadsheets/d/1wW-af19R6kRcxmVb-mHnXxnwedHr75pXC8Bxtmrcqzo/edit?usp=sharing' target = "_blank">Dues Breakdown</a></li>
 <!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1x9XIh9mjRXdK5HI4_aqES2yVP0TQ-4vDHp-YxXfPsJo/edit?usp=sharing' target = "_blank">Semester Calendar</a></li> -->
                 </ul>
