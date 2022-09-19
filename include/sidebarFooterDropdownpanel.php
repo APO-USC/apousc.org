@@ -102,7 +102,7 @@ HERE;
 		<li><a href="../information/announcements.php">Announcements</a></li>
 		<li><a href="../information/documents.php">Documents</a></li>
 		<li><a href="https://colossal-crayfish-733.notion.site/APO-Fall-2022-Recruitment-48250240779b41158555e6f587dba48d">Fall 2022 Recruitment Notion</a></li>
-		<li><a href="https://docs.google.com/document/d/1-BDLGkgPEvF8ep9roHVGOpevR4HAcCeW3JeecPf7RE0/edit?fbclid=IwAR3URv57EvqYfkI4CLet2Ok6EDmIu4B-JzKHlYTerNYJUF28RjNPHaE3zd4">Upsilon Fall 22 Changes</a></li>
+<!-- 		<li><a href="https://docs.google.com/document/d/1-BDLGkgPEvF8ep9roHVGOpevR4HAcCeW3JeecPf7RE0/edit?fbclid=IwAR3URv57EvqYfkI4CLet2Ok6EDmIu4B-JzKHlYTerNYJUF28RjNPHaE3zd4">Upsilon Fall 22 Changes</a></li> -->
 <!-- 		<li><a href="../information/forms.php">Forms</a></li>
 		<li><a href="../information/academic_resources.php">Academic Resources</a></li> -->
 		<!--<li><a href="requirements.php">Requirements</a></li>-->
