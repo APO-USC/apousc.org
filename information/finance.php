@@ -65,9 +65,9 @@ include_once("include/topnav.php");
 
 		<p><b>New Members Payment Plan</b></p>	
                 <ul>
-                    	<li>September 26: $110</li>
-                	<li>October 10: $100</li>
-                    	<li>October 24: $100</li>
+                    	<li>October 3: $110</li>
+                	<li>October 17: $100</li>
+                    	<li>October 31: $100</li>
             	</ul>
 				<p><b>*If you do not pay your dues and do not communicate with the VPs, we will have to freeze your account until the matter is resolved.</b></p>
 				
