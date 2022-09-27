@@ -176,7 +176,7 @@ define("ABROAD", 7);
 global $memberStatus;
 $memberStatus = array(
 	ACTIVE_MEMBER => "Active",
-	PLEDGE_MEMBER => "Pledge",
+	PLEDGE_MEMBER => "New Member",
 	ASSOCIATE_MEMBER => "Associate",
 	INACTIVE_MEMBER => "Inactive",
 	ALUMNI_MEMBER => "Alumni",
@@ -337,7 +337,7 @@ $eventType = array(
     11 => "Phi Family",
     12 => "Omega Family",
     13 => "ICervice",
-    14 => "Pledge Membership",
+    14 => "NM Membership",
     15 => "Canceled",
     16 => "Diversity, Equity, & Inclusion"
 );
