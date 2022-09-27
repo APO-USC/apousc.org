@@ -65,6 +65,7 @@ include_once("include/topnav.php");
 				<li><a href="https://forms.gle/ksvRjaP48AYpHUKs6" target = "_blank">Open Evaluations Form</a></li>
 				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSerEg85-4A17s4NUkK1Olm6gYrCYX92AOTup5IhoU_XBpJXag/viewform" target ="_blank">Outside Service Hours Submission Form</a></li>
 				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSerlbmmR5xYltbf6yuyHvDYR2dwOadl7RVrCmYk3zuy6Jjupw/viewform?usp=sf_link" target="_blank">Fellowship Series Form</a></li>
+				<li><a href="https://forms.gle/GTNb41pnKFAVagvQ8" target="_blank">Philanthropy Event Form</a></li>
 			</ul>
 
 		 <h3>Academic Documents</h3>
