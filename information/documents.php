@@ -41,7 +41,7 @@ include_once("include/topnav.php");
 		<h3> Extra Opportunities for Actives </h3>
 			<ul>
 
-                		<li><a href = "https://docs.google.com/spreadsheets/d/1lT8l32kg6FfBfsFvoYTcIy421BEHDnBdhaQ0cHjytI0/edit?usp=sharing" target = "_blank">Spring 2022 Point Opportunities</a></li>
+                		<li><a href = "https://docs.google.com/spreadsheets/d/15RypjMYabtWuaD31Yi6Ovb3z2AozoIOiDwJi6QOkfjQ/edit#gid=0" target = "_blank">Fall 2022 Point Opportunities</a></li>
                 	</ul>
                 	<ul>
 
