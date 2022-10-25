@@ -112,14 +112,14 @@ else {
 	echo "<li><strong>Status</strong>: " . $memberStatus[$req_user_info['status']] . "</li>\n";
 // Comment out until pledges get families
 
-// 	echo "<li><strong>Family</strong>: ";
-// 	if ($req_user_info['family'] !== NULL && is_numeric($req_user_info['family'])) {
-// 		echo $families[$req_user_info['family']];
-// 	} //$req_user_info['family'] !== NULL && is_numeric($req_user_info['family'])
-// 	else {
-// 		echo "Unknown";
-// 	}
-// 	echo "</li>\n";
+	echo "<li><strong>Family</strong>: ";
+	if ($req_user_info['family'] !== NULL && is_numeric($req_user_info['family'])) {
+		echo $families[$req_user_info['family']];
+	} //$req_user_info['family'] !== NULL && is_numeric($req_user_info['family'])
+	else {
+		echo "Unknown";
+	}
+	echo "</li>\n";
 	
 	// end comment  about families
 
