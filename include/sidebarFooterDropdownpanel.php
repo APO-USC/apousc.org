@@ -28,8 +28,8 @@ if ($session->status == FROZEN_MEMBER) {
 
 <!--  <div class='highlighter central'> -->
 
-     <li><a href="../election/nominations.php">Nominations</a></li>
-     <li><a href="../election/election_documents.php">Candidate Documents</a></li>
+<!--      <li><a href="../election/nominations.php">Nominations</a></li>
+     <li><a href="../election/election_documents.php">Candidate Documents</a></li> -->
 <!-- </div> -->
 		<li>
 		<?php
@@ -89,8 +89,8 @@ HERE;
 	<h5>Information</h5>
 	<ul>
 		<!--Only needed during Officer Nominations period -->
-<!-- 		<li><a href="../election/nominations.php"><strong>Nominations</strong></a></li>  -->
-<!-- 		<li><a href="../election/election_documents.php"><strong>Candidate Documents</strong></a></li>  -->
+ 		<li><a href="../election/nominations.php"><strong>Nominations</strong></a></li>  
+ 		<li><a href="../election/election_documents.php"><strong>Candidate Documents</strong></a></li>  
 		<li><a href="https://docs.google.com/document/d/1uVfEY7P9IcKabiNCmc2bUr9hYiZR50SeSFyR710v2xk/edit?usp=sharing"><strong>E-Board Applications</strong></a></li>
  		<li><a href="https://docs.google.com/document/d/1TP5goDQeJ1hpN6Z9H2wlY6DAevSg_3r2_hMZnui6f6k/edit?usp=sharing"><strong>A-Board Applications</strong></a></li>
 <!-- 		<li><a href = "https://experienced-allosaurus-19a.notion.site/ACTIVE-FAQs-f697522e3ac64003b2902479bbb44b5e" target="_blank"><strong>FAQ for Recruitment</strong></a></li> -->
