@@ -63,8 +63,8 @@ include_once("include/topnav.php");
 	    	<ul><a href = "https://drive.google.com/file/d/1jM2GWniG9jvGZZwTbquZ5qapRZw4PSMG/view?usp=sharing" target="_blank"> Schedule </a></ul>
 	   <li><b>Ryan Tsang</b></li>
               <ul><a href = "https://docs.google.com/document/d/1SkI9YP14XPVakJZ_Rt5WIYYpR0WIE5dwwNIUYhDz6UY/edit?usp=sharing" target="_blank"> Application </a></ul>
-              <ul><a href = "" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "" target="_blank"> Schedule </a></ul>
+<!--               <ul><a href = "" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "" target="_blank"> Schedule </a></ul> -->
           </ul> 
 
           <h3>VP of Service</h3>
@@ -72,10 +72,10 @@ include_once("include/topnav.php");
              	<li><b>Jackie Wu</b></li>
                 <ul><a href = "https://drive.google.com/file/d/1lnrWVqExJilFeIROfHeXRLMvU4bm0Usy/view?usp=sharing" target="_blank"> Application </a></ul>
                 <ul><a href = "https://drive.google.com/file/d/1vPxoRNz-LCgtOfi7sNv5gTguidIV1iys/view?usp=sharing" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "" target="_blank"> Schedule </a></ul> 
+<!-- 	    	<ul><a href = "" target="_blank"> Schedule </a></ul>  -->
 		<li><b>David Kamassah</b></li>
               	<ul><a href = "https://docs.google.com/document/d/1Cmd_ypT1pngdpHVN3lytS8Y3d67Kh6vMyARaSChZg98/edit"> Application </a></ul>
-              	<ul><a href = ""> Resume </a></ul>
+<!--               	<ul><a href = ""> Resume </a></ul>
 	    	<ul><a href = ""> Schedule </a></ul> -->
              </ul> 
 
@@ -94,11 +94,11 @@ include_once("include/topnav.php");
 		<li><b>Kelly Chua</b></li>
 		<ul><a href = "https://drive.google.com/file/d/1xEAlPai4VaFpWdnBKl9MGVnOhxqJhcmG/view?usp=sharing"> Application </a></ul>
 		<ul><a href = "https://drive.google.com/file/d/1GcILnYwGqEZRa0k9EqSWV7XH4vRm6DPC/view?usp=sharing"> Resume </a></ul>
-		<ul><a href = ""> Schedule </a></ul>
+<!-- 		<ul><a href = ""> Schedule </a></ul> -->
 		<li><b>Jonah Vu</b></li>
 		<ul><a href = "https://drive.google.com/file/d/14paYchCdHl3f_eS6BVhohwd34KP7dYc9/view?usp=sharing"> Application </a></ul>
 		<ul><a href = "https://drive.google.com/file/d/1bEpZn07ENW6G0Qr_YwUY8wQl1f03SWjc/view?usp=sharing"> Resume </a></ul>
-		<ul><a href = ""> Schedule </a></ul> 
+<!-- 		<ul><a href = ""> Schedule </a></ul>  -->
             </ul>
 
           <h3>VP of Fellowship</h3>
@@ -111,10 +111,10 @@ include_once("include/topnav.php");
               	<ul><a href = "https://drive.google.com/file/d/1RkEdv0AyNHIw8USQ6zxrLAzWncqqJHSK/view?usp=sharing" target="_blank"> Application </a></ul>
               	<ul><a href = "https://drive.google.com/file/d/1BPEAvS0oy6AtIZeOblPIN8F-9EDbl0pP/view?usp=sharing" target="_blank"> Resume </a></ul>
 	    	<ul><a href = "https://drive.google.com/file/d/1g7sJJ5YCExKYLHEfuLj_FqBTHJIZAD_Y/view?usp=sharing" target="_blank"> Schedule </a></ul>
-	</ul>
+	    </ul>
 
           <h3>Co-VP of Finance</h3>
-		<ul>
+	      <ul>
  		  <li><b>Mia Ward</b></li>
               <ul><a href = "https://docs.google.com/document/d/1EcMbV1YabhdHP-oRDEYb6hW9kgsJbj8bUkIYcu7XjGg/edit?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://drive.google.com/file/d/1CX8uMhilOfRVwmDUYDZHDVbpcsF0_T_p/view?usp=sharing" target="_blank"> Resume </a></ul>
@@ -130,7 +130,7 @@ include_once("include/topnav.php");
                  <li><b>Dylan Pham</b></li>
               <ul><a href = "https://drive.google.com/file/d/1hXBiRajtRbuIK4GEPOS6qphAo9VPoNJ1/view?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://drive.google.com/file/d/1v0R5z3Maop7ykRJmO1SxAR4xzQaoNaN8/view?usp=sharing" target="_blank"> Resume </a></ul>
-	      <ul><a href = "https://drive.google.com/file/d/1fpMw85gcNJgV-71BEQtG2jVV2xk4GgYi/view" target="_blank"> Schedule </a></ul
+	      <ul><a href = "https://drive.google.com/file/d/1fpMw85gcNJgV-71BEQtG2jVV2xk4GgYi/view" target="_blank"> Schedule </a></ul>
               </ul>
             
                   
