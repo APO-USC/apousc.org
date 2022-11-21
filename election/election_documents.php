@@ -133,7 +133,7 @@ include_once("include/topnav.php");
           <h3>Interchapter Chair</h3>
            	<ul>
                <li><b>Kelani Fong</b></li>
-              <ul><a href = "https://docs.google.com/document/d/1uGYhEZ-lzbghUhON4PNf27CL8wM3ujZSbI393c7DzUo/edit?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://docs.google.com/document/d/1eeVEpBoeugtOOMgOZnG6o57wempEsnbd-gbT3vmnkpY/edit?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://drive.google.com/file/d/1Of3k6ziRuVerXl-ZPHaungVQtMf3iMEt/view?usp=sharing" target="_blank"> Resume </a></ul>
 	    	<ul><a href = "https://drive.google.com/file/d/1uDPe7_gAhzg4SW77x9IYFuxIAw8jG8HI/view?usp=sharing" target="_blank"> Schedule </a></ul> 
             </ul> 
