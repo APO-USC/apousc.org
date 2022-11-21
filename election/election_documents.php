@@ -103,10 +103,6 @@ include_once("include/topnav.php");
 
           <h3>VP of Fellowship</h3>
 	    <ul>
-              	<li><b>Angelique Calma</b></li>
-              	<ul><a href = "https://drive.google.com/file/d/1D_EOtB4XVJO4Nzu_d7y5bCgJ90XIbaut/view?usp=sharing" target="_blank"> Application </a></ul>
-              	<ul><a href = "https://drive.google.com/file/d/13yzj37GPEo9E1VY8mYrTIJBVcxH0FE0D/view?usp=sharing" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1t-8lUJIPLS2wYNZWB3t1XAIlQwF3U_Z2/view?usp=sharing" target="_blank"> Schedule </a></ul> 
 		<li><b>Jaden Sibrian</b></li>
               	<ul><a href = "https://drive.google.com/file/d/1RkEdv0AyNHIw8USQ6zxrLAzWncqqJHSK/view?usp=sharing" target="_blank"> Application </a></ul>
               	<ul><a href = "https://drive.google.com/file/d/1BPEAvS0oy6AtIZeOblPIN8F-9EDbl0pP/view?usp=sharing" target="_blank"> Resume </a></ul>
@@ -144,7 +140,7 @@ include_once("include/topnav.php");
 
 <h3>Diversity and Inclusion Chair</h3>
 		<ul>
-		      <li><b>Leah Huyhn</b></li>
+		      <li><b>Leah Huynh</b></li>
 		      <ul><a href = "https://drive.google.com/file/d/1Lrhih5wIgDBVPoOLQO0HLmGshF0-IsCJ/view?usp=sharing" target="_blank"> Application </a></ul>
 		      <ul><a href = "https://drive.google.com/file/d/1hbeXTo8BWUpydd0ADNvRjKfdXciIr3tz/view?usp=sharing" target="_blank"> Resume </a></ul>
 		      <ul><a href = "https://drive.google.com/file/d/1k-UQDzapELk409tMADKV1s7OSef_xoHw/view?usp=sharing" target="_blank"> Schedule </a></ul>
