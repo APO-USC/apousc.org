@@ -29,9 +29,9 @@ include_once("include/topnav.php");
 ?>
 <br />
 			<h2>Finance</h2>
-			<p>If you don't see what you're looking for, just contact Stephen Nguyen or Tammy Kongboonma!</p>
+			<p>If you don't see what you're looking for, just contact Mia Ward or Justin Yang!</p>
 
-                <h3>Fall 2022 Information</h3>
+                <h3>Spring 2023 Information</h3>
                 <ul>
                     	<li><a href='https://docs.google.com/spreadsheets/d/1WTRFerY_JFQieVyqGrAAkSdBSB5qhYVdL1o8znT3TlU/edit?usp=sharing' target = "_blank">Budget</a></li>
                     	<li>Venmo: @apoakusc</li>
@@ -43,7 +43,7 @@ include_once("include/topnav.php");
                 </ul>
                 
                 <h3>Dues</h3>
-                <p>Please contact Stephen Nguyen or Tammy Kongboonma if you need additional financial accommodations for our payment plans.</p>
+                <p>Please contact Mia Ward or Justin Yang if you need additional financial accommodations for our payment plans.</p>
 		<p>Payments due @ 11:59 PM of each deadline or your account will be frozen :(</p>
 		<h4><b>Actives: $140 early bird, $145 regular</b></h4>
                 <h4><b>Associates: $55 regular</b></h4>
@@ -76,9 +76,9 @@ include_once("include/topnav.php");
 				
 				<p>In order to get reimbursed, please send your receipts to Stephen Nguyen or Tammy Kongboonma at finance.apousc@gmail.com.</p>
 		<ul>
-                    <li><a href='https://forms.gle/F86womvaGUk9ipVk7' target = "_blank">Driver Reimbursement Request Form</a></li>
-		    <li><a href='https://forms.gle/GFAZScJwdtTEyHiV8' target = "_blank">Driver Reimbursement Car Information Form</a></li>
-		    <li><a href='https://forms.gle/sRc6k4DWA9kKmHir6' target = "_blank">General APO Reimbursement Form</a></li>
+                    <li><a href='https://forms.gle/njp842MmXoSDrUXm8' target = "_blank">Driver Reimbursement Request Form</a></li>
+		    <li><a href='https://forms.gle/fDck9aCVq8nETHsm9' target = "_blank">Driver Reimbursement Car Information Form</a></li>
+		    <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSfF-O_SJuQ4HWXIEfsT8CzNuR2u6YDEMQBUYQWv09nxcsH3Aw/viewform' target = "_blank">General APO Reimbursement Form</a></li>
                 </ul>
 				
 <br />
