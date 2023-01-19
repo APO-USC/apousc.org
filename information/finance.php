@@ -74,7 +74,7 @@ include_once("include/topnav.php");
 				
 				<h3>Reimbursements</h3>
 				
-				<p>In order to get reimbursed, please send your receipts to Stephen Nguyen or Tammy Kongboonma at finance.apousc@gmail.com.</p>
+				<p>In order to get reimbursed, please send your receipts to Mia Ward or Justin Yang at finance.apousc@gmail.com.</p>
 		<ul>
                     <li><a href='https://forms.gle/njp842MmXoSDrUXm8' target = "_blank">Driver Reimbursement Request Form</a></li>
 		    <li><a href='https://forms.gle/fDck9aCVq8nETHsm9' target = "_blank">Driver Reimbursement Car Information Form</a></li>
