@@ -33,42 +33,42 @@ include_once("include/topnav.php");
 
                 <h3>Spring 2023 Information</h3>
                 <ul>
-                    	<li><a href='https://docs.google.com/spreadsheets/d/1WTRFerY_JFQieVyqGrAAkSdBSB5qhYVdL1o8znT3TlU/edit?usp=sharing' target = "_blank">Budget</a></li>
+                    	<li><a href='https://docs.google.com/spreadsheets/d/1u3NZUGQtLHa8qYS0PNRcGdzf8e7MN0guaO4pRiLJIh4/edit#gid=1852648581' target = "_blank">Budget</a></li>
                     	<li>Venmo: @apoakusc</li>
                     	<li>Email: <a href="mailto:finance.apousc@gmail.com">finance.apousc@gmail.com</a></li>
-			<li><a href='https://forms.gle/8WHqYGLrQsRGJaCZ7' target = "_blank">Financial Aid Application</a></li>
-			<li><a href='https://docs.google.com/spreadsheets/d/1wW-af19R6kRcxmVb-mHnXxnwedHr75pXC8Bxtmrcqzo/edit?usp=sharing' target = "_blank">Dues Breakdown</a></li>
-			<li><a href='https://forms.gle/BKhFoV83pniNBAJ46' target = "_blank">Payment Plan Adjustment Request</a></li>
+			<li><a href='https://docs.google.com/forms/d/e/1FAIpQLSefRvMzAP8PkOsejOtvP9TGbH8yWCYI-JzJdyUulwWgMb3MYQ/viewform' target = "_blank">Financial Aid Application</a></li>
+			<li><a href='https://docs.google.com/spreadsheets/d/1qCJAXGA4SQR949Pjb46hK6SJYdtXqzFA8UmVkKBN90U/edit#gid=0' target = "_blank">Dues Breakdown</a></li>
+			<li><a href='https://docs.google.com/forms/d/e/1FAIpQLSdFeGECmGHAN1zH573kYCmJSMcGS96kcvJxOM003j2FHuu6Bg/viewform' target = "_blank">Payment Plan Adjustment Request</a></li>
 <!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1x9XIh9mjRXdK5HI4_aqES2yVP0TQ-4vDHp-YxXfPsJo/edit?usp=sharing' target = "_blank">Semester Calendar</a></li> -->
                 </ul>
                 
                 <h3>Dues</h3>
                 <p>Please contact Mia Ward or Justin Yang if you need additional financial accommodations for our payment plans.</p>
 		<p>Payments due @ 11:59 PM of each deadline or your account will be frozen :(</p>
-		<h4><b>Actives: $140 early bird, $145 regular</b></h4>
+		<h4><b>Actives: $135 early bird, $140 regular</b></h4>
                 <h4><b>Associates: $55 regular</b></h4>
 		<h4><b>New Members: $310 regular</b></h4>
 		<p><b>Actives Payment Plan</b></p>	
                 <ul>
-			<li>Pay full September 12: $140</li>
-                    	<li>September 12: $50</li>
-                    	<li>September 26: $50</li>
-                    	<li>October 10: $45</li>
+			<li>Pay full February 6: $135</li>
+                    	<li>February 6: $50</li>
+                    	<li>February 20: $45</li>
+                    	<li>March 6: $45</li>
             	</ul>
 
              	<p><b>Associates Payment Plan</b></p>	
                 <ul>
-			<li>Pay full September 12: $55</li>
-                    	<li>September 12: $20</li>
-                	<li>September 26: $20</li>
-                    	<li>October 10: $15</li>
+			<li>Pay full February 6: $55</li>
+                    	<li>February 6: $20</li>
+                	<li>February 20: $20</li>
+                    	<li>March 6: $15</li>
             	</ul>
 
 		<p><b>New Members Payment Plan</b></p>	
                 <ul>
-                    	<li>October 3: $110</li>
-                	<li>October 17: $100</li>
-                    	<li>October 31: $100</li>
+                    	<li>February 27: $110</li>
+                	<li>March 13: $100</li>
+                    	<li>March 27: $100</li>
             	</ul>
 				<p><b>*If you do not pay your dues and do not communicate with the VPs, we will have to freeze your account until the matter is resolved.</b></p>
 				
