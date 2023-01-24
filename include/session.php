@@ -1715,7 +1715,7 @@ date_default_timezone_set('America/Los_Angeles');
 		   $this->username == "jekim" || // almuni
 		   $this->username == "eafflick" || // historian
 		   $this->username == "Kychua" || // phil
-		   $this->username == "jsibrian" || // phil
+		   $this->username == "sungmich" || // phil
 		   $this->username == "bcalma" || // rush
 		   $this->username == "kuloszew" || // rush
 		   $this->username == "lmhuynh" || // d&i
