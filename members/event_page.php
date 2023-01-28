@@ -328,7 +328,7 @@ if (mysql_num_rows($result) > 0) {
         ($session->username == "nickchen") || // webmaster YOTE
 	($session->username == "ipeng") || // webmaster YAAAAAAAAAAAAAAAAYEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEET
 	($session->username == "kjma") || //webmaster :DDDDDD
-	($session->username == "nhchu") // webmaster :)
+	($session->username == "nhchu") ||// webmaster :)
 	($session->username == "emilymoj") // webmaster <3
         //LOOK HERE U TWAT :D this is where you give permission to take people off events
         //new webmasters add yourself here!! ^^
