@@ -277,9 +277,9 @@ if (mysql_num_rows($result) > 0) {
 	//pauntie
 	($session->username == "britneyf" && ($req_event_info['type'] == 5 || $req_event_info['type'] == 9 || $req_event_info['type'] == 14)) ||
 	//pauntie
-	($session->username == "mlwang" && ($req_event_info['type'] == 5 || $req_event_info['type'] == 9 || $req_event_info['type'] == 14)) ||
+	//($session->username == "mlwang" && ($req_event_info['type'] == 5 || $req_event_info['type'] == 9 || $req_event_info['type'] == 14)) ||
         //vp service
-        (($session->username == "jcwu" || $session->username == "kamassah") && ($req_event_info['type'] == 7 || $req_event_info['type'] == 0)) ||
+        ($session->username == "jcwu" && ($req_event_info['type'] == 7 || $req_event_info['type'] == 0)) ||
         //vps membership
         (($session->username == "cnthai" || $session->username == "bjtran") && ($req_event_info['type'] == 4 || $req_event_info['type'] == 14)) || 
         //vp fellowship
