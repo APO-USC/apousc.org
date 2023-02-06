@@ -38,7 +38,7 @@ include_once("include/topnav.php");
                         <li><a href="docs/Spring 2015 Appointed Officer Application.docx">Spring 2015 Appointed Officer Application</a></li>
                     </ul> -->
 		                
-		<h3> Extra Opportunities for Actives </h3>
+	<!--	<h3> Extra Opportunities for Actives </h3>
 			<ul>
 
                 		<li><a href = "https://docs.google.com/spreadsheets/d/15RypjMYabtWuaD31Yi6Ovb3z2AozoIOiDwJi6QOkfjQ/edit#gid=0" target = "_blank">Fall 2022 Point Opportunities</a></li>
@@ -51,6 +51,7 @@ include_once("include/topnav.php");
 
                 		<li><a href = "https://docs.google.com/spreadsheets/d/1NBAvysusEPn8agwXS8lZ4WF--uXYqezRno5sYKE1zBs/edit?fbclid=IwAR1MelaIzhfud9yR-QK2g7oElZHz1UftqafDcrV7Q-Ndczo1yr_1yWQ6K5c#gid=0" target = "_blank"> IC GBMs </a></li>
                 	</ul>
+-->
 
 		<h3>Forms </h3>
 			<ul>
@@ -58,7 +59,7 @@ include_once("include/topnav.php");
 				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd8_c4TqemjrAvio0DxwyMUFv-q9fcNhhzd85PrclDFJz7MJw/viewform">Event Evaluation Form</a></li>
 				<li><a href='https://docs.google.com/forms/d/e/1FAIpQLSftdqT-xgSpVWNHtkmo7T4_L4NHbxt3iZlROEMcPVoxzlGUnw/viewform' target = "_blank">Diversity and Inclusion Survey</a></li>
 				<li><a href='https://forms.gle/jhC3w4TQ5X8grg1C7' target = "_blank">Diversity & Inclusion Event Reflection Form</a></li>
-				<li><a href="https://drive.google.com/file/d/1lNKrfgsSEAuOeZdyZPvuFWw37KZqyM_v/preview?format=pdf" target = "_blank">Outside Service Hours Log</a></li> -->
+				<li><a href="https://forms.gle/VVXC1uAtEBNgQo8x8" target = "_blank">Outside Service Hours Log (Spring 2023)</a></li> -->
 				<li><a href="https://forms.gle/myvywQUroWRXGGvF9" target = "_blank">APO Service Feedback (Fall 2021)</a></li>
 				<li><a href="https://www.facebook.com/APO-Compliments-Spring-2020-115121043370901/" target = "_blank">APO Compliments Form</a></li>
 				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdPnubmuQwhKJhf4JtFFxzTDjkflzsvxbmO2DUSQHdlkOI6PA/viewform" target = "_blank">TOWNHALL - Bylaw Changes Form</a></li>
