@@ -47,7 +47,7 @@ include_once("include/topnav.php");
 		<p>Payments due @ 11:59 PM of each deadline or your account will be frozen :(</p>
 		<h4><b>Actives: $135 early bird, $140 regular</b></h4>
                 <h4><b>Associates: $55 regular</b></h4>
-		<h4><b>New Members: $310 regular</b></h4>
+		<h4><b>New Members: $275 regular</b></h4>
 		<p><b>Actives Payment Plan</b></p>	
                 <ul>
 			<li>Pay full February 6: $135</li>
@@ -66,9 +66,9 @@ include_once("include/topnav.php");
 
 		<p><b>New Members Payment Plan</b></p>	
                 <ul>
-                    	<li>February 27: $110</li>
-                	<li>March 13: $100</li>
-                    	<li>March 27: $100</li>
+                    	<li>February 27: $95</li>
+                	<li>March 13: $90</li>
+                    	<li>March 27: $90</li>
             	</ul>
 				<p><b>*If you do not pay your dues and do not communicate with the VPs, we will have to freeze your account until the matter is resolved.</b></p>
 				
