@@ -28,13 +28,7 @@ include_once("include/topnav.php");
 	if ($session->logged_in) {
 ?>
 <br />
-		<h2>Judicial Board</h2>
-			
-                    	<li><a href="https://docs.google.com/document/d/1HQdXjcoYfEyGQitK8dN-QgOVLgAUnRPFvgXpbNbzIqA/edit" target = "_blank">APO Anti-Harassment and Discrimination Policy and Report Procedure </a></li>
-                        <li><a href="https://docs.google.com/forms/d/1_AHAqYh0joGNEoTywHPANTVQMkxU0aRqT2sXllUxIK4/viewform?edit_requested=true" target = "_blank">Alpha Phi Omega - Open Evaluations Form</a></li>
-		        <li><a href="https://drive.google.com/file/d/1WzqffvqBlgp8g0wgM7Hk8zh_jJYK0haQ/view" target = "_blank">Bylaws</a></li>
-        
-
+		
 		<h2>Documents</h2>
 			<p>If you don't see what you're looking for, just contact an officer!</p>
 			<p>If you want to upload or update a document on this page feel free to contact webmaster.apousc@gmail.com!</p>
@@ -44,6 +38,14 @@ include_once("include/topnav.php");
                     	<li><a href="docs/Spring 2015 Elected Officer Application.docx">Spring 2015 Elected Officer Application</a></li>
                         <li><a href="docs/Spring 2015 Appointed Officer Application.docx">Spring 2015 Appointed Officer Application</a></li>
                     </ul> -->
+
+		<h3>Judicial Board</h3>
+			
+                    	<li><a href="https://docs.google.com/document/d/1HQdXjcoYfEyGQitK8dN-QgOVLgAUnRPFvgXpbNbzIqA/edit" target = "_blank">APO Anti-Harassment and Discrimination Policy and Report Procedure </a></li>
+                        <li><a href="https://docs.google.com/forms/d/1_AHAqYh0joGNEoTywHPANTVQMkxU0aRqT2sXllUxIK4/viewform?edit_requested=true" target = "_blank">Alpha Phi Omega - Open Evaluations Form</a></li>
+		        <li><a href="https://drive.google.com/file/d/1WzqffvqBlgp8g0wgM7Hk8zh_jJYK0haQ/view" target = "_blank">Bylaws</a></li>
+        
+
 		                
 	<!--	<h3> Extra Opportunities for Actives </h3>
 			<ul>
