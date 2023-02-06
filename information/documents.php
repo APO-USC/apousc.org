@@ -28,7 +28,14 @@ include_once("include/topnav.php");
 	if ($session->logged_in) {
 ?>
 <br />
-			<h2>Documents</h2>
+		<h2>Judicial Board</h2>
+			
+                    	<li><a href="https://docs.google.com/document/d/1HQdXjcoYfEyGQitK8dN-QgOVLgAUnRPFvgXpbNbzIqA/edit" target = "_blank">APO Anti-Harassment and Discrimination Policy and Report Procedure </a></li>
+                        <li><a href="https://docs.google.com/forms/d/1_AHAqYh0joGNEoTywHPANTVQMkxU0aRqT2sXllUxIK4/viewform?edit_requested=true" target = "_blank">Alpha Phi Omega - Open Evaluations Form</a></li>
+		        <li><a href="https://drive.google.com/file/d/1WzqffvqBlgp8g0wgM7Hk8zh_jJYK0haQ/view" target = "_blank">Bylaws</a></li>
+        
+
+		<h2>Documents</h2>
 			<p>If you don't see what you're looking for, just contact an officer!</p>
 			<p>If you want to upload or update a document on this page feel free to contact webmaster.apousc@gmail.com!</p>
 				<!-- COMMENTED SECTION-->
@@ -61,10 +68,10 @@ include_once("include/topnav.php");
 				<li><a href='https://forms.gle/jhC3w4TQ5X8grg1C7' target = "_blank">Diversity & Inclusion Event Reflection Form</a></li>
 				<li><a href="https://forms.gle/VVXC1uAtEBNgQo8x8" target = "_blank">Outside Service Hours Log </a></li> -->
 				<!-- <li><a href="https://forms.gle/myvywQUroWRXGGvF9" target = "_blank">APO Service Feedback (Fall 2021)</a></li> -->
-				<li><a href="https://www.facebook.com/APO-Compliments-Spring-2020-115121043370901/" target = "_blank">APO Compliments Form</a></li>
-				 <!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdPnubmuQwhKJhf4JtFFxzTDjkflzsvxbmO2DUSQHdlkOI6PA/viewform" target = "_blank">TOWNHALL - Bylaw Changes Form</a></li>
-				<li><a href="https://forms.gle/ksvRjaP48AYpHUKs6" target = "_blank">Open Evaluations Form</a></li> -->
+				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfRo-iv-mYMaYluCQ0ZkvWsuAPNTvORJN4JZ43AvDX43q5iUQ/viewform" target = "_blank">TOWNHALL - Bylaw Changes Form</a></li>
+				 <!--  <li><a href="https://forms.gle/ksvRjaP48AYpHUKs6" target = "_blank">Open Evaluations Form</a></li> -->
 				<li><a href="https://forms.gle/VVXC1uAtEBNgQo8x8" target ="_blank">Outside Service Hours Submission Form (Spring 2023) </a></li>
+				<li><a href="https://www.facebook.com/APO-Compliments-Spring-2020-115121043370901/" target = "_blank">APO Compliments Form</a></li>
 				<!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSerlbmmR5xYltbf6yuyHvDYR2dwOadl7RVrCmYk3zuy6Jjupw/viewform?usp=sf_link" target="_blank">Fellowship Series Form</a></li>
 				<li><a href="https://forms.gle/GTNb41pnKFAVagvQ8" target="_blank">Philanthropy Event Form</a></li>
 				<li><a href="https://forms.gle/4qZMnSM3UZV4gCiU6" target="_blank">Active Status Change Form</a></li> -->
@@ -112,12 +119,12 @@ include_once("include/topnav.php");
 <!-- 							<div class="view1"> -->
 								<div>
 								<ul>
-									<!-- Updated Spring 2021 -->
-									<li><a href="https://docs.google.com/document/d/1nuyNJ20uq6Qm4r6VsSxCfP-Kz-kQDoUWhZlS1ZlxCgs/edit" target = "_blank">Bylaws</a></li>
-									<!-- Updated Spring 2015 -->
+									<!-- Updated Spring 2023 -->
+									<li><a href="https://drive.google.com/file/d/1WzqffvqBlgp8g0wgM7Hk8zh_jJYK0haQ/view" target = "_blank">Bylaws</a></li>
+									<!-- Updated Spring 2015 
 									<li><a href="https://drive.google.com/file/d/1oyHvE_AcHis1i_HdOB7jGNKrtJc4tUGS/preview?format=pdf" target = "_blank">Officer Descriptions</a> </li>
-									<!-- Updated Spring 2015 -->
-									<li><a href="https://drive.google.com/file/d/1b-4t8zc7_i8f9V_H0hqRt6zFd956RbDu/preview?format=pdf" target = "_blank">Officer Election Policy</a></li>
+									Updated Spring 2015 
+									<li><a href="https://drive.google.com/file/d/1b-4t8zc7_i8f9V_H0hqRt6zFd956RbDu/preview?format=pdf" target = "_blank">Officer Election Policy</a></li> -->
 					
 								</ul>
 							</div>
