@@ -122,7 +122,7 @@ include_once("include/topnav.php");
 								<div>
 								<ul>
 									<!-- Updated Spring 2023 -->
-									<li><a href="https://drive.google.com/file/d/1WzqffvqBlgp8g0wgM7Hk8zh_jJYK0haQ/view" target = "_blank">Bylaws</a></li>
+									<li><a href="https://drive.google.com/file/d/1s3yF26t2p8eCqk8vNQWdCU5iJD-zp6cL/view?usp=drivesdk" target = "_blank">Bylaws</a></li>
 									<!-- Updated Spring 2015 
 									<li><a href="https://drive.google.com/file/d/1oyHvE_AcHis1i_HdOB7jGNKrtJc4tUGS/preview?format=pdf" target = "_blank">Officer Descriptions</a> </li>
 									Updated Spring 2015 
