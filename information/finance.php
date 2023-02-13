@@ -36,7 +36,7 @@ include_once("include/topnav.php");
                     	<li><a href='https://docs.google.com/spreadsheets/d/1u3NZUGQtLHa8qYS0PNRcGdzf8e7MN0guaO4pRiLJIh4/edit#gid=1852648581' target = "_blank">Budget</a></li>
                     	<li>Venmo: @apoakusc</li>
                     	<li>Email: <a href="mailto:finance.apousc@gmail.com">finance.apousc@gmail.com</a></li>
-			<li><a href='https://docs.google.com/forms/d/e/1FAIpQLSefRvMzAP8PkOsejOtvP9TGbH8yWCYI-JzJdyUulwWgMb3MYQ/viewform' target = "_blank">Financial Aid Application</a></li>
+			<li><a href='https://docs.google.com/forms/d/e/1FAIpQLSd_b4XEwhT7dcoJNLOIugXLLhTbx4DxtfZOomC2yYXRU-KG7w/viewform' target = "_blank">New Members: Financial Aid Application</a></li>
 			<li><a href='https://docs.google.com/spreadsheets/d/1qCJAXGA4SQR949Pjb46hK6SJYdtXqzFA8UmVkKBN90U/edit#gid=0' target = "_blank">Dues Breakdown</a></li>
 			<li><a href='https://docs.google.com/forms/d/e/1FAIpQLSdFeGECmGHAN1zH573kYCmJSMcGS96kcvJxOM003j2FHuu6Bg/viewform' target = "_blank">Payment Plan Adjustment Request</a></li>
 <!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1x9XIh9mjRXdK5HI4_aqES2yVP0TQ-4vDHp-YxXfPsJo/edit?usp=sharing' target = "_blank">Semester Calendar</a></li> -->
