@@ -43,7 +43,7 @@ include_once("include/topnav.php");
 			
                     	<li><a href="https://docs.google.com/document/d/1HQdXjcoYfEyGQitK8dN-QgOVLgAUnRPFvgXpbNbzIqA/edit" target = "_blank">APO Anti-Harassment and Discrimination Policy and Report Procedure </a></li>
                         <li><a href="https://docs.google.com/forms/d/1_AHAqYh0joGNEoTywHPANTVQMkxU0aRqT2sXllUxIK4/viewform?edit_requested=true" target = "_blank">Alpha Phi Omega - Open Evaluations Form</a></li>
-		        <li><a href="https://drive.google.com/file/d/1WzqffvqBlgp8g0wgM7Hk8zh_jJYK0haQ/view" target = "_blank">Bylaws</a></li>
+		        <li><a href="https://drive.google.com/file/d/1s3yF26t2p8eCqk8vNQWdCU5iJD-zp6cL/view" target = "_blank">Bylaws</a></li>
         
 
 		                
