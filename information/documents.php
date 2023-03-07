@@ -74,6 +74,8 @@ include_once("include/topnav.php");
 				 <!--  <li><a href="https://forms.gle/ksvRjaP48AYpHUKs6" target = "_blank">Open Evaluations Form</a></li> -->
 				<li><a href="https://forms.gle/VVXC1uAtEBNgQo8x8" target ="_blank">Outside Service Hours Submission Form (Spring 2023) </a></li>
 				<li><a href="https://www.facebook.com/APO-Compliments-Spring-2020-115121043370901/" target = "_blank">APO Compliments Form</a></li>
+				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeddund9hxKM6MPatondZebSnDFf0WyrhIknDuSNStMQMHMeg/viewform" target = "_blank">Fellowship Event Form Spring 2023</a></li>
+				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScWhVyfGblwpOS9Hp53LUunRs4Z2OJGvuFgm-ygZ86Sk5nsdg/viewform" target = "_blank">APO Compliments Submission Spring 2023</a></li>
 				<!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSerlbmmR5xYltbf6yuyHvDYR2dwOadl7RVrCmYk3zuy6Jjupw/viewform?usp=sf_link" target="_blank">Fellowship Series Form</a></li>
 				<li><a href="https://forms.gle/GTNb41pnKFAVagvQ8" target="_blank">Philanthropy Event Form</a></li>
 				<li><a href="https://forms.gle/4qZMnSM3UZV4gCiU6" target="_blank">Active Status Change Form</a></li> -->
