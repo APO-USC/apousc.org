@@ -115,7 +115,7 @@ HERE;
 <!-- 		<li><a href=" INSERT LINK HERE">President</a></li> -->
 <!-- 		<li><a href="https://docs.google.com/spreadsheets/d/1jfhuzV2HDxURCe9_0iO9MG2JGiwk3wevOd2ezXmaT-M/edit?usp=sharing"><strong>!!Fellowship Reccuring Series</strong></a></li> -->
 		<li><a href="https://calendar.google.com/calendar/u/0?cid=Y184ZDQ0M2I5M2VmOGM1YmI0NmFiY2QwODYyNDQwMjEwZWNlMTRkYjU0MDUyYWNmYWI4OTA5NGY4Y2MyOThhYWZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" target="_blank"><strong>Google Calendar</strong></a></li>
- 		<li><a href="https://www.facebook.com/profile.php?id=100089077822306"><strong>!!APO Compliments</strong></a></li> 
+ 		<li><a href="https://www.facebook.com/profile.php?id=100089077822306" target="_blank"><strong>APO Compliments</strong></a></li> 
 <!-- 		<li><a href="https://www.youtube.com/watch?v=M0Kf1X7gTIg&feature=youtu.be"><strong>!!APO Discord Tutorial</strong></a></li> -->
 <!-- 		<li><a href="https://linktr.ee/apousc"><strong>!!APO Linktree</strong></a></li> -->
 	</ul>
