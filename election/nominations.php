@@ -67,7 +67,7 @@ include_once("include/topnav.php");
 					<br/><br/>If you would like to comment on a candidate during elections, but would like to stay anonymous to the chapter, 
 					please fill out the <a href="https://forms.gle/Y8EzgUtGVkaH7HWE7">Election Candidate Eval Form</a>
 					
-					<br/><br/><strong>If you are accepting your nominations, please be sure to submit the <a href="https://docs.google.com/document/d/1uVfEY7P9IcKabiNCmc2bUr9hYiZR50SeSFyR710v2xk/edit?usp=sharing">E-Board Application</a> by 11:59 PM on FRIDAY, NOVEMBER 18. 
+					<br/><br/><strong>If you are accepting your nominations, please be sure to submit the <a href="https://docs.google.com/document/d/1uVfEY7P9IcKabiNCmc2bUr9hYiZR50SeSFyR710v2xk/edit?usp=sharing">E-Board Application</a> by 11:59 PM on FRIDAY, APRIL 14. 
 					</strong></br></br><strong>If you would like to apply for an appointed position, please submit your <a href="https://docs.google.com/document/d/1TP5goDQeJ1hpN6Z9H2wlY6DAevSg_3r2_hMZnui6f6k/edit?usp=sharing">A-Board Application </a> 
 						by 11:59 PM on MONDAY, April 17.</strong></p> 
 				
