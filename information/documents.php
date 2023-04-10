@@ -43,7 +43,7 @@ include_once("include/topnav.php");
 			
                     	<li><a href="https://docs.google.com/document/d/1HQdXjcoYfEyGQitK8dN-QgOVLgAUnRPFvgXpbNbzIqA/edit" target = "_blank">APO Anti-Harassment and Discrimination Policy and Report Procedure </a></li>
                         <li><a href="https://docs.google.com/forms/d/1_AHAqYh0joGNEoTywHPANTVQMkxU0aRqT2sXllUxIK4/viewform?edit_requested=true" target = "_blank">Alpha Phi Omega - Open Evaluations Form</a></li>
-		        <li><a href="https://drive.google.com/file/d/1s3yF26t2p8eCqk8vNQWdCU5iJD-zp6cL/view" target = "_blank">Bylaws</a></li>
+		        <li><a href="https://drive.google.com/file/d/17xHs4OCgla0709SFnnZFQbUx7WIm7Wft/view" target = "_blank">Bylaws</a></li>
         
 
 		                
@@ -133,7 +133,7 @@ include_once("include/topnav.php");
 								<div>
 								<ul>
 									<!-- Updated Spring 2023 -->
-									<li><a href="https://drive.google.com/file/d/1s3yF26t2p8eCqk8vNQWdCU5iJD-zp6cL/view?usp=drivesdk" target = "_blank">Bylaws</a></li>
+									<li><a href="https://drive.google.com/file/d/17xHs4OCgla0709SFnnZFQbUx7WIm7Wft/view" target = "_blank">Bylaws</a></li>
 									<!-- Updated Spring 2015 
 									<li><a href="https://drive.google.com/file/d/1oyHvE_AcHis1i_HdOB7jGNKrtJc4tUGS/preview?format=pdf" target = "_blank">Officer Descriptions</a> </li>
 									Updated Spring 2015 
