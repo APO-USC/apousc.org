@@ -57,6 +57,7 @@ include_once("include/topnav.php");
 				$positionz[6] = "VP of Communications";
 				$positionz[7] = "Interchapter Chair";
 				$positionz[8] = "Diversity and Inclusion Chair";
+				$positionz[9] = "Philanthropy Chair";
 			?>
 			<div class="contentBox">
 				<p>Please review the <a href="https://drive.google.com/file/d/1Y8UWvkfbvm5vKxD8qb0UGVkbQytIj8ew/view?usp=sharing">Officer Descriptions</a>, 
@@ -475,6 +476,43 @@ include_once("include/topnav.php");
 					$i++;
 				}
 				?>
+	
+	
+				<tr class="thead">
+						<td>Philanthropy Chair</td>
+						<td></td>
+					</tr>
+						<?php
+						$q = "SELECT * FROM `" . TBL_NOMINATIONS . "` WHERE `position` = 9 ORDER BY decline, name";
+						$retval = $database->query($q);
+						$i = 0; // Counter used for alternating table row colors
+						while ($row = mysql_fetch_array($retval)) {
+							$nominee_info = $database->getUserInfo($row['name']);
+							$zebra = ($i % 2 == 1) ? " class=\"zebra\"" : "";
+							$declined = $row['decline'] > 0;
+							$declinedOut = ($declined) ? " class=\"declined\"" : "";
+							echo ("<tr".$zebra."><td".$declinedOut.">".$nominee_info['fname']." ".$nominee_info['lname']." (".$nominee_info['username'].")");
+							if (strcmp($session->username,$row['name']) == 0 || $session->isAdmin()) {
+								if ($row['decline'] == 0) {
+									echo (" [<a href=\"process.php?subdeclinenomination=1&amp;user=".$row['name']."&amp;position=9\" title=\"Decline Nomination\" onclick=\"return confirm('Are you sure you want to decline this nomination?');\">Decline</a>]");
+								}
+							}
+							echo ("</td><td>");
+							if ($declined) {
+								echo ("Declined");
+							} else if ($row['second'] == 0) {
+								if (strcmp($session->username,$row['name']) == 0) {
+									echo ("Not seconded");
+								} else {
+									echo ("<a href=\"process.php?subsecondnomination=1&amp;user=".$row['name']."&amp;position=9\" title=\"Second Nomination\" onclick=\"return confirm confirm('Are you sure you want to second this nomination?');\">Second Now</a>");
+								}
+							} else {
+								echo ("Seconded");
+							}
+							echo ("</td></tr>");
+							$i++;
+						}
+						?>
 				</tbody>
 			</table>
 <?php
