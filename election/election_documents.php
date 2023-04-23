@@ -57,15 +57,8 @@ include_once("include/topnav.php");
 
           <h3>New Member Educator</h3>
            <ul>    
-           <!-- <li><b>Diego Ramos</b></li>
-              <ul><a href = "https://docs.google.com/document/d/1k1MMWj98Z_tDeTluVPwQvyyAH8_ptSkq/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Application </a></ul>
-              <ul><a href = "https://docs.google.com/document/d/1ZculEmi6rA6HX3H-8m20KHId9Ojq0dzj/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1jM2GWniG9jvGZZwTbquZ5qapRZw4PSMG/view?usp=sharing" target="_blank"> Schedule </a></ul>
-	   <li><b>Ryan Tsang</b></li>
-              <ul><a href = "https://docs.google.com/document/d/1SkI9YP14XPVakJZ_Rt5WIYYpR0WIE5dwwNIUYhDz6UY/edit?usp=sharing" target="_blank"> Application </a></ul>
-<!--               <ul><a href = "" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "" target="_blank"> Schedule </a></ul> -->
-      -->    </ul> 
+            <!--     no applicants     --> 
+       </ul> 
 
           <h3>VP of Service</h3>
 	    <ul>
@@ -80,7 +73,7 @@ include_once("include/topnav.php");
           <h3>VP of Fellowship</h3>
 	    <ul>
 		<li><b>Ethan Afflick</b></li>
-              	<ul><a href = "https://drive.google.com/file/d/15vRnCwstCZAa4j0-qZxkE0JiY1tiGaTT/view?usp=sharing"> Application </a></ul>
+              	<ul><a href = "https://drive.google.com/file/d/15vRnCwstCZAa4j0-qZxkE0JiY1tiGaTT/view?usp=sharing" target="_blank"> Application </a></ul>
               <!-- 	<ul><a href = "https://drive.google.com/file/d/1BPEAvS0oy6AtIZeOblPIN8F-9EDbl0pP/view?usp=sharing" target="_blank"> Resume </a></ul>  --> 
 	      <!-- 	<ul><a href = "https://drive.google.com/file/d/1g7sJJ5YCExKYLHEfuLj_FqBTHJIZAD_Y/view?usp=sharing" target="_blank"> Schedule </a></ul>  --> 
 	    </ul>
@@ -93,6 +86,19 @@ include_once("include/topnav.php");
           <h3>VP of Communications</h3>
 		<ul>
               		    <!--     no applicants     -->   
+               </ul>
+
+        <h3>VP of Philanthropy</h3>
+		<ul>
+              	      <li><b>Katie Kim</b></li>
+		      <ul><a href = "https://drive.google.com/file/d/1nLhyHqaMpGD9SYgoTsockjaR2ov0IHFs/view?usp=sharing" target="_blank"> Application </a></ul>
+		      <ul><a href = "https://drive.google.com/file/d/1hcHHH0YafJbs6sfUwpc9ZH9lEX03obct/view?usp=sharing" target="_blank"> Resume </a></ul>
+		      <ul><a href = "https://drive.google.com/file/d/1L8rb2QxKIM3Kpp-hDYm_db4N9R6_suhm/view?usp=sharing" target="_blank"> Schedule </a></ul>
+		      <li><b>Matthew Su</b></li>
+		      <ul><a href = "https://drive.google.com/file/d/16T9wCXTpaTAwWPrIpFRCl8Hj0A0bwqHx/view?usp=sharing" target="_blank"> Application </a></ul>
+		      <ul><a href = "https://drive.google.com/file/d/1RMzT56sonFOPvwYOjOYqHcLaPwEeFgi9/view?usp=sharing" target="_blank"> Resume </a></ul>  
+		     <ul><a href = "https://drive.google.com/file/d/1MT0a4ks5Y5gIEZwphV2lbEkw0i0hOPnK/view?usp=sharing" target="_blank"> Schedule </a></ul>
+
                </ul>
             
                   
