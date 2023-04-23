@@ -48,16 +48,16 @@ include_once("include/topnav.php");
           
            <h3>President</h3>
 	    <ul> 
-             <li><b>Matthew Torres</b></li>
-              <ul><a href = "https://docs.google.com/document/d/1dakbk-M8piy7kqovBIztjJa-ou_5-nt3/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Application </a></ul>
-              <ul><a href = "https://docs.google.com/document/d/19Ef2myz8KuW_DCr0kEBFH3V-3o_UK2JB/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1pzmLI1a-bQtoTcDrbMYI0Qon2lE8Wwoc/view?usp=sharing" target="_blank"> Schedule </a></ul>
+             <li><b>Jaden Sibrian</b></li>
+              <ul><a href = "https://drive.google.com/file/d/1w-SBytbWiwVAdWi_S-Fa2TrLZuOO-YG0/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/1A8HQ5SUGyof6LpRu2IxBK4m7ZRHqOUb-/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1yP45hrmM6eVDvTBVqrM-PAJbQruVqBa4/view?usp=sharing" target="_blank"> Schedule </a></ul>
             </ul>
            
 
           <h3>New Member Educator</h3>
            <ul>    
-            <li><b>Diego Ramos</b></li>
+           <!-- <li><b>Diego Ramos</b></li>
               <ul><a href = "https://docs.google.com/document/d/1k1MMWj98Z_tDeTluVPwQvyyAH8_ptSkq/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Application </a></ul>
               <ul><a href = "https://docs.google.com/document/d/1ZculEmi6rA6HX3H-8m20KHId9Ojq0dzj/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Resume </a></ul>
 	    	<ul><a href = "https://drive.google.com/file/d/1jM2GWniG9jvGZZwTbquZ5qapRZw4PSMG/view?usp=sharing" target="_blank"> Schedule </a></ul>
@@ -65,11 +65,11 @@ include_once("include/topnav.php");
               <ul><a href = "https://docs.google.com/document/d/1SkI9YP14XPVakJZ_Rt5WIYYpR0WIE5dwwNIUYhDz6UY/edit?usp=sharing" target="_blank"> Application </a></ul>
 <!--               <ul><a href = "" target="_blank"> Resume </a></ul>
 	    	<ul><a href = "" target="_blank"> Schedule </a></ul> -->
-          </ul> 
+      -->    </ul> 
 
           <h3>VP of Service</h3>
 	    <ul>
-             	<li><b>Jackie Wu</b></li>
+        <!--     	<li><b>Jackie Wu</b></li>
                 <ul><a href = "https://drive.google.com/file/d/1lnrWVqExJilFeIROfHeXRLMvU4bm0Usy/view?usp=sharing" target="_blank"> Application </a></ul>
                 <ul><a href = "https://drive.google.com/file/d/1vPxoRNz-LCgtOfi7sNv5gTguidIV1iys/view?usp=sharing" target="_blank"> Resume </a></ul>
 <!-- 	    	<ul><a href = "" target="_blank"> Schedule </a></ul>  -->
@@ -77,11 +77,11 @@ include_once("include/topnav.php");
               	<ul><a href = "https://docs.google.com/document/d/1Cmd_ypT1pngdpHVN3lytS8Y3d67Kh6vMyARaSChZg98/edit"> Application </a></ul>
 <!--               	<ul><a href = ""> Resume </a></ul>
 	    	<ul><a href = ""> Schedule </a></ul> -->
-             </ul> 
+         -->    </ul> 
 
           <h3>Co-VP of Membership</h3>
 	    <ul>
-		<li><b>Crystal Thai</b></li>
+	<!--	<li><b>Crystal Thai</b></li>
 		<ul><a href = "https://drive.google.com/file/d/1B96eAxwB_VL-VSG-LQS3t_1Lft0e5U6G/view?usp=sharing"> Application </a></ul>
 		<ul><a href = "https://drive.google.com/file/d/10mraTQRuT3nXuFe5m73eKJc9wM75GouH/view?usp=sharing"> Resume </a></ul>
 		<ul><a href = "https://drive.google.com/file/d/1fadvJHwei971HCfXLMUykgUnYNbhDGCq/view?usp=sharing"> Schedule </a></ul>
@@ -89,7 +89,7 @@ include_once("include/topnav.php");
 		<ul><a href = "https://drive.google.com/file/d/1iElfJIqfp2T0sd73zF1LSCNCuMk_V1B9/view?usp=sharing"> Application </a></ul>
 		<ul><a href = "https://drive.google.com/file/d/1r-6zHnH2H2I8Dpl-t1S3GfR1dMJ4bON9/view?usp=sharing"> Resume </a></ul>
 		<ul><a href = "https://drive.google.com/file/d/1sY2oNOqA7mO_2q3kpO9GDozR7r8-GS8Y/view?usp=sharing"> Schedule </a></ul> 
-            </ul>
+           </ul>
 	    <ul>
 		<li><b>Kelly Chua</b></li>
 		<ul><a href = "https://drive.google.com/file/d/1xEAlPai4VaFpWdnBKl9MGVnOhxqJhcmG/view?usp=sharing"> Application </a></ul>
@@ -99,7 +99,7 @@ include_once("include/topnav.php");
 		<ul><a href = "https://drive.google.com/file/d/14paYchCdHl3f_eS6BVhohwd34KP7dYc9/view?usp=sharing"> Application </a></ul>
 		<ul><a href = "https://drive.google.com/file/d/1bEpZn07ENW6G0Qr_YwUY8wQl1f03SWjc/view?usp=sharing"> Resume </a></ul>
 <!-- 		<ul><a href = ""> Schedule </a></ul>  -->
-            </ul>
+           --> </ul>
 
           <h3>VP of Fellowship</h3>
 	    <ul>
@@ -111,7 +111,7 @@ include_once("include/topnav.php");
 
           <h3>Co-VP of Finance</h3>
 	      <ul>
- 		  <li><b>Mia Ward</b></li>
+ 		<!--  <li><b>Mia Ward</b></li>
               <ul><a href = "https://docs.google.com/document/d/1EcMbV1YabhdHP-oRDEYb6hW9kgsJbj8bUkIYcu7XjGg/edit?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://drive.google.com/file/d/1CX8uMhilOfRVwmDUYDZHDVbpcsF0_T_p/view?usp=sharing" target="_blank"> Resume </a></ul>
 	    	<ul><a href = "https://drive.google.com/file/d/1Z81koNLCQ8ijFoWfxuUeWq1PWicsVYNd/view?usp=sharing" target="_blank"> Schedule </a></ul>
@@ -119,15 +119,15 @@ include_once("include/topnav.php");
               	<ul><a href = "https://drive.google.com/file/d/1POY4-_DoniitLTWxnPJqmBq63TGlyCvR/view?usp=sharing" target="_blank"> Application </a></ul>
               	<ul><a href = "https://drive.google.com/file/d/1mhQK2QhrJWOFo0ny7xY1Mvu9C7ujC-wO/view?usp=sharing" target="_blank"> Resume </a></ul>
 	    	<ul><a href = "https://drive.google.com/file/d/1nrkUlE38RE5f51soydZjuHGD0wEyT07S/view?usp=sharing" target="_blank"> Schedule </a></ul>
-              </ul>
+          -->    </ul>
 
           <h3>VP of Communications</h3>
 		<ul>
-                 <li><b>Dylan Pham</b></li>
+               <!--  <li><b>Dylan Pham</b></li>
               <ul><a href = "https://drive.google.com/file/d/1hXBiRajtRbuIK4GEPOS6qphAo9VPoNJ1/view?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://drive.google.com/file/d/1v0R5z3Maop7ykRJmO1SxAR4xzQaoNaN8/view?usp=sharing" target="_blank"> Resume </a></ul>
 	      <ul><a href = "https://drive.google.com/file/d/1fpMw85gcNJgV-71BEQtG2jVV2xk4GgYi/view" target="_blank"> Schedule </a></ul>
-              </ul>
+         -->     </ul>
             
                   
           <h3>Interchapter Chair</h3>
