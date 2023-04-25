@@ -48,10 +48,10 @@ include_once("include/topnav.php");
           
            <h3>President</h3>
 	    <ul> 
-             <li><b>Jaden Sibrian</b></li>
+           <!--    <li><b>Jaden Sibrian</b></li>
               <ul><a href = "https://drive.google.com/file/d/1w-SBytbWiwVAdWi_S-Fa2TrLZuOO-YG0/view?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://drive.google.com/file/d/1A8HQ5SUGyof6LpRu2IxBK4m7ZRHqOUb-/view?usp=sharing" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1yP45hrmM6eVDvTBVqrM-PAJbQruVqBa4/view?usp=sharing" target="_blank"> Schedule </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1yP45hrmM6eVDvTBVqrM-PAJbQruVqBa4/view?usp=sharing" target="_blank"> Schedule </a></ul> --> 
             </ul>
            
 
