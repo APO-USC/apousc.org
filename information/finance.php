@@ -37,6 +37,7 @@ include_once("include/topnav.php");
                     	<li>Venmo: @apoakusc</li>
                     	<li>Email: <a href="mailto:finance.apousc@gmail.com">finance.apousc@gmail.com</a></li>
 			<li><a href='https://docs.google.com/forms/d/e/1FAIpQLScfZJ_-fkXlfMOEyBHXxZmMeDUi6mde1QfDwD9dyMQRzXxVvA/viewform' target = "_blank">New Members: Financial Aid Application</a></li>
+			<li><a href='https://docs.google.com/forms/d/e/1FAIpQLSeN3Fm2tfweVCKgAKAU_gH3kQhAsfzx9coco0Ht8lMn3X5lPA/viewform' target = "_blank">Actives: Financial Aid Application</a></li>
 			<li><a href='https://docs.google.com/spreadsheets/d/14caTP6ABRb9NMGnrHJyy0u_Ub2aZz0ChzbkRq0uvyP0/edit#gid=0' target = "_blank">Dues Breakdown</a></li>
 			<li><a href='https://forms.gle/sTVAQgdq4QZmtM3r9' target = "_blank">Payment Plan Adjustment Request</a></li>
 <!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1PXuN3l-g1iufoe9mkM1dk4oTXMJSzb-WA9KnPFyFqRw/edit#gid=0' target = "_blank">Extra Fundraising Point Oppprtunities - Spring 2023</a></li>
@@ -46,7 +47,7 @@ include_once("include/topnav.php");
                 <h3>Dues</h3>
                 <p>Please contact Elodie Zhen or Leon Yoshida if you need additional financial accommodations for our payment plans.</p>
 		<p>Payments due @ 11:59 PM of each deadline or your account will be frozen :(</p>
-		<h4><b>Actives: $141 early bird, $146 regular</b></h4>
+		<h4><b>Actives: $141 early bird (9/16), $146 regular</b></h4>
                 <h4><b>Associates: $55 regular</b></h4>
 		<h4><b>New Members: $270 regular</b></h4>
 		<p><b>Actives Payment Plan</b></p>	
