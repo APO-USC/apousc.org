@@ -41,8 +41,8 @@ include_once("include/topnav.php");
 
 		<h3>Judicial Board</h3>
 			
-                    	<li><a href="https://docs.google.com/document/d/1HQdXjcoYfEyGQitK8dN-QgOVLgAUnRPFvgXpbNbzIqA/edit" target = "_blank">APO Anti-Harassment and Discrimination Policy and Report Procedure </a></li>
-                        <li><a href="https://docs.google.com/forms/d/1_AHAqYh0joGNEoTywHPANTVQMkxU0aRqT2sXllUxIK4/viewform?edit_requested=true" target = "_blank">Alpha Phi Omega - Open Evaluations Form</a></li>
+                    	<li><a href="https://docs.google.com/document/d/1LVE4lOW37_UqgceVTq0ZdKRanuw2ent1A7kdRbJ7Bx8/edit?usp=sharing" target = "_blank">APO Anti-Harassment and Discrimination Policy and Report Procedure </a></li>
+                        <li><a href="https://docs.google.com/forms/d/1hTCuVvK-jnqYeKr6LnR7nFfYKrxvGWCcd4zJSAiAmCI/viewform?edit_requested=true" target = "_blank">Alpha Phi Omega - Open Evaluations Form</a></li>
 		        <li><a href="https://drive.google.com/file/d/17xHs4OCgla0709SFnnZFQbUx7WIm7Wft/view" target = "_blank">Bylaws</a></li>
         
 
