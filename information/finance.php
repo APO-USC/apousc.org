@@ -40,6 +40,7 @@ include_once("include/topnav.php");
 			<li><a href='https://docs.google.com/forms/d/e/1FAIpQLSeN3Fm2tfweVCKgAKAU_gH3kQhAsfzx9coco0Ht8lMn3X5lPA/viewform' target = "_blank">Actives: Financial Aid Application</a></li>
 			<li><a href='https://docs.google.com/spreadsheets/d/14caTP6ABRb9NMGnrHJyy0u_Ub2aZz0ChzbkRq0uvyP0/edit#gid=0' target = "_blank">Dues Breakdown</a></li>
 			<li><a href='https://forms.gle/sTVAQgdq4QZmtM3r9' target = "_blank">Payment Plan Adjustment Request</a></li>
+			<li><a href='https://forms.gle/k3RaFyR37JPe247o6' target = "_blank">Chapter Retreat Auction</a></li>
 <!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1PXuN3l-g1iufoe9mkM1dk4oTXMJSzb-WA9KnPFyFqRw/edit#gid=0' target = "_blank">Extra Fundraising Point Oppprtunities - Spring 2023</a></li>
 <!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1x9XIh9mjRXdK5HI4_aqES2yVP0TQ-4vDHp-YxXfPsJo/edit?usp=sharing' target = "_blank">Semester Calendar</a></li> --> -->
                 </ul>
