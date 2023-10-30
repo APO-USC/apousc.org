@@ -26,11 +26,11 @@ if ($session->status == FROZEN_MEMBER) {
 <!-- Election time links -->
 
 
-<!--  <div class='highlighter central'> -->
+ <div class='highlighter central'>
 
      <li><a href="../election/nominations.php">Nominations</a></li>
      <li><a href="../election/election_documents.php">Candidate Documents</a></li>
-<!-- </div> -->
+</div>
 		<li>
 		<?php
 			echo "<h5><a href='../members/userinfo.php?user=" . $session->username . "' title='View/edit user info'>" . $session->fname . " " . $session->lname . "</a></h5>" ?>
