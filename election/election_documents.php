@@ -72,8 +72,8 @@ include_once("include/topnav.php");
 
           <h3>VP of Fellowship</h3>
 	    <ul>
-		<li><b>Ethan Afflick</b></li>
-              	<ul><a href = "https://drive.google.com/file/d/15vRnCwstCZAa4j0-qZxkE0JiY1tiGaTT/view?usp=sharing" target="_blank"> Application </a></ul>
+<!-- 		<li><b>Ethan Afflick</b></li>
+              	<ul><a href = "https://drive.google.com/file/d/15vRnCwstCZAa4j0-qZxkE0JiY1tiGaTT/view?usp=sharing" target="_blank"> Application </a></ul> -->
               <!-- 	<ul><a href = "https://drive.google.com/file/d/1BPEAvS0oy6AtIZeOblPIN8F-9EDbl0pP/view?usp=sharing" target="_blank"> Resume </a></ul>  --> 
 	      <!-- 	<ul><a href = "https://drive.google.com/file/d/1g7sJJ5YCExKYLHEfuLj_FqBTHJIZAD_Y/view?usp=sharing" target="_blank"> Schedule </a></ul>  --> 
 	    </ul>
@@ -90,29 +90,29 @@ include_once("include/topnav.php");
 
         <h3>VP of Philanthropy</h3>
 		<ul>
-              	      <li><b>Katie Kim</b></li>
+<!--               	      <li><b>Katie Kim</b></li>
 		      <ul><a href = "https://drive.google.com/file/d/1nLhyHqaMpGD9SYgoTsockjaR2ov0IHFs/view?usp=sharing" target="_blank"> Application </a></ul>
 		      <ul><a href = "https://drive.google.com/file/d/1hcHHH0YafJbs6sfUwpc9ZH9lEX03obct/view?usp=sharing" target="_blank"> Resume </a></ul>
 		      <ul><a href = "https://drive.google.com/file/d/1L8rb2QxKIM3Kpp-hDYm_db4N9R6_suhm/view?usp=sharing" target="_blank"> Schedule </a></ul>
 		      <li><b>Matthew Su</b></li>
 		      <ul><a href = "https://drive.google.com/file/d/16T9wCXTpaTAwWPrIpFRCl8Hj0A0bwqHx/view?usp=sharing" target="_blank"> Application </a></ul>
 		      <ul><a href = "https://drive.google.com/file/d/1RMzT56sonFOPvwYOjOYqHcLaPwEeFgi9/view?usp=sharing" target="_blank"> Resume </a></ul>  
-		     <ul><a href = "https://drive.google.com/file/d/1MT0a4ks5Y5gIEZwphV2lbEkw0i0hOPnK/view?usp=sharing" target="_blank"> Schedule </a></ul>
+		     <ul><a href = "https://drive.google.com/file/d/1MT0a4ks5Y5gIEZwphV2lbEkw0i0hOPnK/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
 
                </ul>
             
                   
           <h3>Interchapter Chair</h3>
            	<ul>
-               <li><b>Ayezah Bagro</b></li>
+<!--                <li><b>Ayezah Bagro</b></li>
               <ul><a href = "https://drive.google.com/file/d/1opvu89jGyN4si_kx76nfgBWR6F97X8Va/view?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://drive.google.com/file/d/1J065bP6XbuVPagnB3eKAELIfzfcy1XtN/view?usp=sharing" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1xnQjR1LL4KhpOf3fX1RO7ZsXwrh0uehQ/view?usp=sharing" target="_blank"> Schedule </a></ul> 
+	    	<ul><a href = "https://drive.google.com/file/d/1xnQjR1LL4KhpOf3fX1RO7ZsXwrh0uehQ/view?usp=sharing" target="_blank"> Schedule </a></ul>  -->
             </ul> 
 
 <h3>Diversity and Inclusion Chair</h3>
 		<ul>
-		      <li><b>Jonah Vu</b></li>
+<!-- 		      <li><b>Jonah Vu</b></li>
 		      <ul><a href = "https://drive.google.com/file/d/1X9di8s3cyJpBGL0Yu36VKcTSj9UkIEl3/view?usp=sharing" target="_blank"> Application </a></ul>
 		      <ul><a href = "https://drive.google.com/file/d/1kKeVXuo7uNm89UYR4fspLuLf1Uh2fghl/view?usp=sharing" target="_blank"> Resume </a></ul>
 		      <ul><a href = "https://drive.google.com/file/d/1zK3zsSfW7lxwIeJ_AeFDilaOjzOYMu-p/view?usp=sharing" target="_blank"> Schedule </a></ul>
@@ -122,7 +122,7 @@ include_once("include/topnav.php");
 		      <li><b>Brigitte Buntin</b></li>
 		      <ul><a href = "https://drive.google.com/file/d/1WeY9ojljnjufcBgZ9gEz4CvBMRtR369A/view?usp=sharing" target="_blank"> Application </a></ul>
 		      <ul><a href = "https://drive.google.com/file/d/1XTyPDwnubMfJeM6oFFgoIFK3fD7WBwaE/view?usp=sharing" target="_blank"> Resume </a></ul>
-		      <ul><a href = "https://drive.google.com/file/d/1gz48GCrQvBD39rgYbZEpgfsaIBeE4LVm/view?usp=sharing" target="_blank"> Schedule </a></ul>
+		      <ul><a href = "https://drive.google.com/file/d/1gz48GCrQvBD39rgYbZEpgfsaIBeE4LVm/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
 		</ul>
     
 			<p class="bottomNote">Note: <abbr title="Portable Document Format">PDF</abbr> files require the Adobe Reader from Adobe Systems, Incorporated. Adobe and the Adobe logo are trademarks of Adobe Systems, Incorporated. Click on the following link to download.</p>
