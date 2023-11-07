@@ -54,7 +54,7 @@ include_once("include/topnav.php");
 				$positionz[3] = "VP of Membership";
 				$positionz[4] = "VP of Fellowship";
 				$positionz[5] = "VP of Finance";
-				$positionz[6] = "VP of Communications";
+				$positionz[6] = "VP of Marketing";
 				$positionz[7] = "Interchapter Chair";
 				$positionz[8] = "Diversity and Inclusion Chair";
 				$positionz[9] = "Philanthropy Chair";
@@ -337,7 +337,7 @@ include_once("include/topnav.php");
 						}
 						?>
  					<tr class="thead">
-						<td>VP of Communications</td>
+						<td>VP of Marketing</td>
 						<td></td>
 					</tr>
 						<?php 
