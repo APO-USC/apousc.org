@@ -57,7 +57,10 @@ include_once("include/topnav.php");
 
           <h3>New Member Educator</h3>
            <ul>    
-            <!--     no applicants     --> 
+              <li><b>Ethan Afflick</b></li>
+              <ul><a href = "https://drive.google.com/file/d/1sH6fMvs4ftfRR5U4oyv1j_OGhKn-J5DF/view?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://drive.google.com/file/d/15KGRzAZZdObYSfM5sULzKx5c6RPvgspM/view?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<ul><a href = "https://drive.google.com/file/d/1HuZydpz9rvA7vgysN4NBFlc6fiY69aFo/view?usp=sharing" target="_blank"> Schedule </a></ul> 
        </ul> 
 
           <h3>VP of Service</h3>
