@@ -1696,7 +1696,7 @@ date_default_timezone_set('America/Los_Angeles');
 		if (($this->position >= 1 && $this->position <= 20)|| $this->position == 33 || $this->position == -1 || $this->isAdmin() ||
 		   $this->username == "ohsieh" || // webmaster
 		   $this->username == "jhvu" || // pledge master
-		   $this->username == "kusumae" || // pauntie
+		   $this->username == "hongheat" || // pauntie
 		   $this->username == "hongheat" || // service
 		   $this->username == "mswong" || // service
 		   $this->username == "lmhuynh" || // membership
