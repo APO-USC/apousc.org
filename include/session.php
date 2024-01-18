@@ -1694,28 +1694,29 @@ date_default_timezone_set('America/Los_Angeles');
 	function isOfficer()
 	{
 		if (($this->position >= 1 && $this->position <= 20)|| $this->position == 33 || $this->position == -1 || $this->isAdmin() ||
-		   $this->username == "ohsieh" || // webmaster
-		   $this->username == "jhvu" || // pledge master
+		   $this->username == "yangjust" || // webmaster
+		   $this->username == "eafflick" || // pledge master
 		   $this->username == "hongheat" || // pauntie
-		   $this->username == "hongheat" || // service
-		   $this->username == "mswong" || // service
-		   $this->username == "lmhuynh" || // membership
-		   $this->username == "Kychua" || // membership
-		   $this->username == "eafflick" || // fellowship
-		   $this->username == "zhenyong" || // finance
-		   $this->username == "leonyosh" || // finance
-		   $this->username == "bjtran" || // communications
+		   $this->username == "cnthai" || // pauntie
+		   $this->username == "bjtran" || // pauntie
+		   $this->username == "mysu" || // service
+		   $this->username == "zhenyong" || // service
+		   $this->username == "ejhee" || // membership
+		   $this->username == "bgiang" || // membership
+		   $this->username == "jordantr" || // fellowship
+		   $this->username == "reyesper" || // finance
+		   $this->username == "mswong" || // finance
+		   $this->username == "ayshin" || // communications
 		   $this->username == "bagro" || // interchapter
-		   $this->username == "ricaldeb" || // sec
-		   $this->username == "dejansen" || // creative director
+		   $this->username == "bguarin" || // sec
 		   $this->username == "emilymoj" || // almuni
-		   $this->username == "ejhee" || // historian
-		   $this->username == "katiek" || // phil
-		   $this->username == "mysu" || // phil
-		   $this->username == "sandyphu" || // rush
-		   $this->username == "kelanifo" || // rush
-		   $this->username == "dhayden" || // d&i
-		   $this->username == "yangjoce"  // president
+		   $this->username == "dhayden" || // historian
+		   $this->username == "bussayab" || // phil
+		   $this->username == "nicoleyu" || // phil
+		   $this->username == "dhayden" || // rush
+		   $this->username == "tiamson" || // rush
+		   $this->username == "ricaldeb" || // d&i
+		   $this->username == "katiek"  // president
 // 		   $this->username == "ggenito" ||// omega fam head
 // 		   $this->username == "lntran" || // phi fam head
 // 		   $this->username == "jennaogi" // alpha fam head
