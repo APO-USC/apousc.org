@@ -29,7 +29,7 @@ include_once("include/topnav.php");
 ?>
 <br />
 			<h2>Finance</h2>
-			<p>If you don't see what you're looking for, just contact Elodie Zhen and Leon Yoshida!p>
+			<p>If you don't see what you're looking for, just contact Meghan Wong and AJ!p>
 
                 <h3>Spring 2023 Information</h3>
                 <ul>
@@ -78,11 +78,11 @@ include_once("include/topnav.php");
 				
 				<h3>Reimbursements</h3>
 				
-				<p>In order to get reimbursed, please send your receipts to Mia Ward or Justin Yang at finance.apousc@gmail.com.</p>
+				<p>In order to get reimbursed, please send your receipts to Meghan Wong or AJ at finance.apousc@gmail.com.</p>
 		<ul>
-                    <li><a href='https://forms.gle/LsasfhVn2RPSQraD8' target = "_blank">Driver Reimbursement Car Information Form</a></li>
-		    <li><a href='https://forms.gle/TrXuVXKV2uYKusQd7' target = "_blank">Driver Reimbursement Request</a></li>
-		    <li><a href='https://forms.gle/1DPYTvujFbHPYfpv5' target = "_blank">General APO Reimbursement Form</a></li>
+                    <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSd0nd02MoRbVgkwZT6OhJLNTk_32ImTp_-a9OXPXTaIPRyu5w/viewform' target = "_blank">Driver Reimbursement Car Information Form</a></li>
+		    <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSeSl-QxqiJYhMqlzUSkmPFMEoPXSrhK12pF6SSxBkLiijluZQ/viewform' target = "_blank">Driver Reimbursement Request</a></li>
+		    <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSfPmK8fF4AVh5cQ17nWwpXe-gX8NB2rPuDNcwABf-19IfWQww/viewform' target = "_blank">General APO Reimbursement Form</a></li>
                 </ul>
 				
 <br />
