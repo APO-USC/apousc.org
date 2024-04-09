@@ -70,7 +70,7 @@ include_once("include/topnav.php");
 					
 					<br/><br/><strong>If you are accepting your nominations, please be sure to submit the <a href="https://docs.google.com/document/d/16JRtSSt4ihxeHlAcbldeb1h2yoclIkxztDJWLb_BDOQ/edit?usp=sharing">E-Board Application</a> by 11:59 PM on FRIDAY, APRIL 19. 
 					</strong></br></br><strong>If you would like to apply for an appointed position, please submit your <a href="https://docs.google.com/document/d/16JRtSSt4ihxeHlAcbldeb1h2yoclIkxztDJWLb_BDOQ/edit?usp=sharing">A-Board Application </a> 
-						by 11:59 PM on TUESDAY, APRIL @#</strong></p> 
+						by 11:59 PM on TUESDAY, APRIL 23 </strong></p> 
 				
 			</div>
 			<form action="process.php" method="post">
