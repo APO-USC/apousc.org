@@ -48,7 +48,7 @@ include_once("include/topnav.php");
           
            <h3>President</h3>
 	    <ul> 
-              <li><b>Katie Kim</b></li>
+              <li><b>Dana Souter</b></li>
               <ul><a href = "https://docs.google.com/document/d/1SZWZG88yTCZkSJUdP5fZhxRRYDsDTU6i6NLNMxVxHWo/edit?usp=sharing" target="_blank"> Application </a></ul>
               <ul><a href = "https://docs.google.com/document/d/1Euk4zJFdD9zNhNa1-RzOJv7tKK49I5A9EQRaxGJ8mXE/edit?usp=sharing" target="_blank"> Resume </a></ul>
 	    	<!-- <ul><a href = "https://drive.google.com/file/d/1mJXh3WyjER8SjgJeB4RfrGDKyyYdlLUG/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
