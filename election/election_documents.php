@@ -65,10 +65,10 @@ include_once("include/topnav.php");
 
           <h3>VP of Service</h3>
 	    <ul>
-		<!-- <li><b>Matthew Su</b></li>
-              <ul><a href = "https://drive.google.com/file/d/1qT8C0Qo8ojgqw6I5q-vff_c0KjUk4y4o/view?usp=sharing" target="_blank"> Application </a></ul>
-              <ul><a href = "https://drive.google.com/file/d/16EWgPkz2IhHAiP0qYk2vxLXYPyt75TQE/view?usp=sharing" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/13y00x5VtMD4gE433ElpeRdGvx9t46C53/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
+		 <li><b>Riddhi Mandavia</b></li>
+              <ul><a href = "https://docs.google.com/document/d/1LPyDCsZI_fA7HeozgG6Ff8TOIKIMTWc3HmB0PmSUElU/edit?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://docs.google.com/document/d/1fsdIGZ0GjWQjK8dOKx8rbUyhA-QVqb7jITRXRlVSsb8/edit?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<!-- <ul><a href = "https://drive.google.com/file/d/13y00x5VtMD4gE433ElpeRdGvx9t46C53/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
             </ul> 
 
           <h3>Co-VP of Membership</h3>
