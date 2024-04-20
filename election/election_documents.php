@@ -78,7 +78,7 @@ include_once("include/topnav.php");
              <!-- <ul><a href = "https://drive.google.com/file/d/100hByvd-G49VkpbWEi05X9slGM6FOZaY/view?usp=sharing" target="_blank"> Resume </a></ul>  -->
 		    <li><b>Dara Macareno</b></li>
               <ul><a href = "https://docs.google.com/document/d/1Tw2MJxq3Jftlqssm0XTMu2zMJw9wUxmTM_xnJlr56Sc/edit?usp=sharing" target="_blank"> Application </a></ul>
-              <ul><a href = "https://docs.google.com/document/d/1M3tTfxOq7hs3h_9DVMwEpSuEZ012lqWWSR7UZQweQ0g/edit?usp=sharing" target="_blank"> Resume </a></ul> -->
+              <ul><a href = "https://docs.google.com/document/d/1M3tTfxOq7hs3h_9DVMwEpSuEZ012lqWWSR7UZQweQ0g/edit?usp=sharing" target="_blank"> Resume </a></ul> 
 		</ul>
 
           <h3>VP of Fellowship</h3>
@@ -89,7 +89,7 @@ include_once("include/topnav.php");
 	      <!-- 	<ul><a href = "https://drive.google.com/file/d/1g7sJJ5YCExKYLHEfuLj_FqBTHJIZAD_Y/view?usp=sharing" target="_blank"> Schedule </a></ul>  --> 
 		     <li><b>Ashton Mahadeo</b></li>
               <ul><a href = "https://docs.google.com/document/d/1dobnH9y0revdgl5xhpN3uTfQ1txpHU-L71u5Ae-XOrU/edit?usp=sharing" target="_blank"> Application </a></ul>
-              <ul><a href = "https://docs.google.com/document/d/12mWU9-FpRtNxDs-Mbr1j_uqmsVIw-NCXdw2fjBcz3gc/edit?usp=sharing" target="_blank"> Resume </a></ul> -->
+              <ul><a href = "https://docs.google.com/document/d/12mWU9-FpRtNxDs-Mbr1j_uqmsVIw-NCXdw2fjBcz3gc/edit?usp=sharing" target="_blank"> Resume </a></ul> 
 	    </ul>
 
           <h3>Co-VP of Finance</h3>
