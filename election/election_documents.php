@@ -108,7 +108,7 @@ include_once("include/topnav.php");
 
           <h3>Co-VP of Finance</h3>
 	      <ul>
-              	      <li><b>Ellorie Mariano Ho</b></li>
+              	      <li><b>Ellorie Mariano </b></li>
 		      <ul><a href = "https://docs.google.com/document/d/16z2xqytTSAR2P7gK7ByBpsy410QGsxVLKx6XwY8Pi7A/edit?usp=sharing" target="_blank"> Application </a></ul>
 		      <ul><a href = "https://docs.google.com/document/d/1UpgV9cXrLbc4P_JB_pR0McdplIRGr21ihLng8uJz2p0/edit?usp=sharing" target="_blank"> Resume </a></ul>
 		      <li><b>Yifei Wang</b></li>
