@@ -48,10 +48,10 @@ include_once("include/topnav.php");
           
            <h3>President</h3>
 	    <ul> 
-           <!--   <li><b>Katie Kim</b></li>
-              <ul><a href = "https://drive.google.com/file/d/1uUUZ0jpyPmbtz3hAn8y5IL-2QINpKZ0W/view?usp=sharing" target="_blank"> Application </a></ul>
-              <ul><a href = "https://drive.google.com/file/d/1nnnCIzqzNMc6on8bctqWGFrgfPEBsqIt/view?usp=sharing" target="_blank"> Resume </a></ul>
-	    	<ul><a href = "https://drive.google.com/file/d/1mJXh3WyjER8SjgJeB4RfrGDKyyYdlLUG/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
+              <li><b>Katie Kim</b></li>
+              <ul><a href = "https://docs.google.com/document/d/1SZWZG88yTCZkSJUdP5fZhxRRYDsDTU6i6NLNMxVxHWo/edit?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://docs.google.com/document/d/1Euk4zJFdD9zNhNa1-RzOJv7tKK49I5A9EQRaxGJ8mXE/edit?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<!-- <ul><a href = "https://drive.google.com/file/d/1mJXh3WyjER8SjgJeB4RfrGDKyyYdlLUG/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
             </ul>
            
 
@@ -70,6 +70,20 @@ include_once("include/topnav.php");
               <ul><a href = "https://docs.google.com/document/d/1fsdIGZ0GjWQjK8dOKx8rbUyhA-QVqb7jITRXRlVSsb8/edit?usp=sharing" target="_blank"> Resume </a></ul>
 	    	<!-- <ul><a href = "https://drive.google.com/file/d/13y00x5VtMD4gE433ElpeRdGvx9t46C53/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
             </ul> 
+	 <ul>
+		 <li><b>Angie Bussayabuntoon</b></li>
+              <ul><a href = "https://docs.google.com/document/d/1Rc45g5GYFQStkI4bERIIcnV1wjpkaZhG6LZDqt5LjaE/edit?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://docs.google.com/document/d/1-2iFlJnM2L__0Yp-ns3lMARy7h-y16rQiGiObq3nsmU/edit?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<!-- <ul><a href = "https://drive.google.com/file/d/13y00x5VtMD4gE433ElpeRdGvx9t46C53/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
+            </ul> 
+	 <ul>
+		 <li><b>Elizabeth Kunz</b></li>
+              <ul><a href = "https://docs.google.com/document/d/1nSDjj6_P_xp2-_w0gElJHSV9jTCm_M9LRfGIdNImoUg/edit?usp=sharing" target="_blank"> Application </a></ul>
+              <ul><a href = "https://docs.google.com/document/d/1pUMkwCvOquXeNueuUXZUwFhjt4kJ-BCfZz-TLLRMomY/edit?usp=sharing" target="_blank"> Resume </a></ul>
+	    	<!-- <ul><a href = "https://drive.google.com/file/d/13y00x5VtMD4gE433ElpeRdGvx9t46C53/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
+            </ul> 
+
+
 
           <h3>Co-VP of Membership</h3>
 	    <ul>
@@ -94,7 +108,12 @@ include_once("include/topnav.php");
 
           <h3>Co-VP of Finance</h3>
 	      <ul>
-		    <!--     no applicants     -->   
+              	      <li><b>Ellorie Mariano Ho</b></li>
+		      <ul><a href = "https://docs.google.com/document/d/16z2xqytTSAR2P7gK7ByBpsy410QGsxVLKx6XwY8Pi7A/edit?usp=sharing" target="_blank"> Application </a></ul>
+		      <ul><a href = "https://docs.google.com/document/d/1UpgV9cXrLbc4P_JB_pR0McdplIRGr21ihLng8uJz2p0/edit?usp=sharing" target="_blank"> Resume </a></ul>
+		      <li><b>Yifei Wang</b></li>
+		      <ul><a href = "https://docs.google.com/document/d/1GcxFEGI6PcKEdFYE4qFY7yvJbrcltBNymOLbQkJRmJo/edit?usp=sharing" target="_blank"> Application </a></ul>
+		      <ul><a href = "https://docs.google.com/document/d/1RJYSNnaKI1zwAsPsRe4i8f5dwBMLCmDFgb2tIEXMGJw/edit?usp=sharing" target="_blank"> Resume </a></ul>  
              </ul>
 
           <h3>VP of Marketing</h3>
@@ -111,9 +130,9 @@ include_once("include/topnav.php");
 		      <ul><a href = "https://docs.google.com/document/d/13qGEsAK-rGsgxbwU9sjtLLbujdDRe9blv5BjGH-8B_w/edit?usp=sharing" target="_blank"> Application </a></ul>
 		      <ul><a href = "https://docs.google.com/document/d/1o0ko8inz2TYTPCVxWKAFEu5cJ0gcZBUMKZ54omhLnXE/edit?usp=sharing" target="_blank"> Resume </a></ul>
 		      <li><b>Brandon Licup</b></li>
-		     <!-- <ul><a href = "https://docs.google.com/document/d/12q-u_pLGIG0bU7VYJoj7F5cquz4gxxUS4Ws3LbX6w8U/edit?usp=sharing" target="_blank"> Application </a></ul>
-		      <ul><a href = "https://docs.google.com/document/d/1Q1RxtW7CaDtFcVaBac9-E9HKwOOu27oa/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Resume </a></ul>  
-		     <ul><a href = "https://drive.google.com/file/d/1UjDv6ON-T1fM8i4LKNKjgVXTVsFk2qUI/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
+		      <ul><a href = "https://docs.google.com/document/d/1Arn6WqTvhQHMG2znPPxXcTd2Xcxd1aiSBhld653MNyU/edit?usp=sharing" target="_blank"> Application </a></ul>
+		      <ul><a href = "https://docs.google.com/document/d/1OFIdGXVLuzufcYfScpx-Vz0JUd6vMqO9/edit?usp=sharing&ouid=114849692149195937267&rtpof=true&sd=true" target="_blank"> Resume </a></ul>  
+		    <!-- <ul><a href = "https://drive.google.com/file/d/1UjDv6ON-T1fM8i4LKNKjgVXTVsFk2qUI/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
 
                </ul>
             
@@ -128,10 +147,10 @@ include_once("include/topnav.php");
 
 <h3>Diversity and Inclusion Chair</h3>
 		<ul>
-		   <!--   <li><b>Brigitte Buntin</b></li>
-		      <ul><a href = "https://drive.google.com/file/d/1u6cqeMcsRGboEAZoZVfP_QlK93ZHTiA-/view?usp=sharing" target="_blank"> Application </a></ul>
-		      <ul><a href = "https://drive.google.com/file/d/1Gp_YCLXrPk3M42nNgRq_pVNtUeQb5w9q/view?usp=sharing" target="_blank"> Resume </a></ul>
-		      <ul><a href = "https://drive.google.com/file/d/1aroZyS0F5yeUYQ4w7H3n7M-DB7twFQPn/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
+		      <li><b>Sophia Cho</b></li>
+		      <ul><a href = "https://docs.google.com/document/d/1s7NLhiHjrm1MXN3fG4Edrh68LnpqhWR0kVQGd_R0_d8/edit?usp=sharing" target="_blank"> Application </a></ul>
+		      <ul><a href = "https://docs.google.com/document/d/1ff5CEqiPIbMUNTEmeHvLrTu1QYMhAmUS9MUiiR3ox5o/edit?usp=sharing" target="_blank"> Resume </a></ul>
+		     <!-- <ul><a href = "https://drive.google.com/file/d/1aroZyS0F5yeUYQ4w7H3n7M-DB7twFQPn/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
 		</ul>
     
 			<p class="bottomNote">Note: <abbr title="Portable Document Format">PDF</abbr> files require the Adobe Reader from Adobe Systems, Incorporated. Adobe and the Adobe logo are trademarks of Adobe Systems, Incorporated. Click on the following link to download.</p>
