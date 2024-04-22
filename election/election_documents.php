@@ -70,12 +70,7 @@ include_once("include/topnav.php");
               <ul><a href = "https://docs.google.com/document/d/1fsdIGZ0GjWQjK8dOKx8rbUyhA-QVqb7jITRXRlVSsb8/edit?usp=sharing" target="_blank"> Resume </a></ul>
 	    	<!-- <ul><a href = "https://drive.google.com/file/d/13y00x5VtMD4gE433ElpeRdGvx9t46C53/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
             </ul> 
-	 <ul>
-		 <li><b>Angie Bussayabuntoon</b></li>
-              <ul><a href = "https://docs.google.com/document/d/1Rc45g5GYFQStkI4bERIIcnV1wjpkaZhG6LZDqt5LjaE/edit?usp=sharing" target="_blank"> Application </a></ul>
-              <ul><a href = "https://docs.google.com/document/d/1-2iFlJnM2L__0Yp-ns3lMARy7h-y16rQiGiObq3nsmU/edit?usp=sharing" target="_blank"> Resume </a></ul>
-	    	<!-- <ul><a href = "https://drive.google.com/file/d/13y00x5VtMD4gE433ElpeRdGvx9t46C53/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
-            </ul> 
+	
 	 <ul>
 		 <li><b>Elizabeth Kunz</b></li>
               <ul><a href = "https://docs.google.com/document/d/1nSDjj6_P_xp2-_w0gElJHSV9jTCm_M9LRfGIdNImoUg/edit?usp=sharing" target="_blank"> Application </a></ul>
