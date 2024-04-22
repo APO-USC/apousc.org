@@ -146,12 +146,7 @@ include_once("include/topnav.php");
             </ul> 
 
 <h3>Diversity and Inclusion Chair</h3>
-		<ul>
-		      <li><b>Sophia Cho</b></li>
-		      <ul><a href = "https://docs.google.com/document/d/1s7NLhiHjrm1MXN3fG4Edrh68LnpqhWR0kVQGd_R0_d8/edit?usp=sharing" target="_blank"> Application </a></ul>
-		      <ul><a href = "https://docs.google.com/document/d/1ff5CEqiPIbMUNTEmeHvLrTu1QYMhAmUS9MUiiR3ox5o/edit?usp=sharing" target="_blank"> Resume </a></ul>
-		     <!-- <ul><a href = "https://drive.google.com/file/d/1aroZyS0F5yeUYQ4w7H3n7M-DB7twFQPn/view?usp=sharing" target="_blank"> Schedule </a></ul> -->
-		</ul>
+		
     
 			<p class="bottomNote">Note: <abbr title="Portable Document Format">PDF</abbr> files require the Adobe Reader from Adobe Systems, Incorporated. Adobe and the Adobe logo are trademarks of Adobe Systems, Incorporated. Click on the following link to download.</p>
 			<a href="http://get.adobe.com/reader/"><img src="img/get_adobe_reader.png" height="39" width="158" alt="Download Adobe Reader" /></a>
