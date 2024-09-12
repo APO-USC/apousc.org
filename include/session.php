@@ -1699,24 +1699,26 @@ date_default_timezone_set('America/Los_Angeles');
 		   $this->username == "hongheat" || // pauntie
 		   $this->username == "cnthai" || // pauntie
 		   $this->username == "bjtran" || // pauntie
-		   $this->username == "mysu" || // service
-		   $this->username == "zhenyong" || // service
-		   $this->username == "ejhee" || // membership
-		   $this->username == "bgiang" || // membership
-		   $this->username == "jordantr" || // fellowship
-		   $this->username == "reyesper" || // finance
-		   $this->username == "mswong" || // finance
-		   $this->username == "ayshin" || // communications
-		   $this->username == "bagro" || // interchapter
-		   $this->username == "bguarin" || // sec
-		   $this->username == "emilymoj" || // almuni
-		   $this->username == "dhayden" || // historian
-		   $this->username == "bussayab" || // phil
-		   $this->username == "nicoleyu" || // phil
-		   $this->username == "dhayden" || // rush
-		   $this->username == "tiamson" || // rush
-		   $this->username == "ricaldeb" || // d&i
-		   $this->username == "katiek"  // president
+		   $this->username == "rmandavi" || // service
+		   $this->username == "ekunz" || // service
+		   $this->username == "dmacaren" || // membership
+		   $this->username == "tqsanfor" || // membership
+		   $this->username == "armahade" || // fellowship
+		   $this->username == "sacho" || // fellowship
+		   $this->username == "emariano" || // finance
+		   $this->username == "ywang280" || // finance
+		   $this->username == "easu" || // communications
+		   $this->username == "ricaldeb" || // interchapter
+		   $this->username == "monnawei" || // sec
+		   $this->username == "loddi" || // almuni
+		   $this->username == "jebreo" || // historian
+		   $this->username == "licup" || // phil
+		   $this->username == "jvho" || // phil
+		   $this->username == "bussayab" || // rush
+		   $this->username == "bguarin" || // rush
+		   $this->username == "emilymoj" || // d&i
+		    $this->username == "bgiang" || // d&i
+		   $this->username == "tiamson"  // president
 // 		   $this->username == "ggenito" ||// omega fam head
 // 		   $this->username == "lntran" || // phi fam head
 // 		   $this->username == "jennaogi" // alpha fam head
