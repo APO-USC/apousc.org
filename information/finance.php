@@ -29,9 +29,9 @@ include_once("include/topnav.php");
 ?>
 <br />
 			<h2>Finance</h2>
-			<p>If you don't see what you're looking for, just contact Meghan Wong and AJ!p>
+			<p>If you don't see what you're looking for, just contact Lucas and Aaron!<p>
 
-                <h3>Spring 2023 Information</h3>
+                <h3>Spring 2025 Information</h3>
                 <ul>
                     	<li><a href='https://docs.google.com/spreadsheets/d/1sQPCbvDb7I1TUUPZouZOJDQXC8QR1lqcqm3KYOZe04w/edit#gid=1852648581' target = "_blank">Budget</a></li>
                     	<li>Venmo: @apoakusc</li>
@@ -46,39 +46,39 @@ include_once("include/topnav.php");
                 </ul>
                 
                 <h3>Dues</h3>
-                <p>Please contact Elodie Zhen or Leon Yoshida if you need additional financial accommodations for our payment plans.</p>
+                <p>Please contact Lucas or Aaron if you need additional financial accommodations for our payment plans.</p>
 		<p>Payments due @ 11:59 PM of each deadline or your account will be frozen :(</p>
-		<h4><b>Actives: $141 early bird (9/16), $146 regular</b></h4>
-                <h4><b>Associates: $55 regular</b></h4>
-		<h4><b>New Members: $270 regular</b></h4>
+		<h4><b>Actives: idk</b></h4>
+                <h4><b>Associates: idk</b></h4>
+		<h4><b>New Members: idk</b></h4>
 		<p><b>Actives Payment Plan</b></p>	
                 <ul>
-			<li>Pay full September 18: $146</li>
-                    	<li>September 18: $49</li>
-                    	<li>October 2: $49</li>
-                    	<li>October 16: $48</li>
+			<li>Pay full February 18: idk</li>
+                    	<li>February 18: idk</li>
+                    	<li>March 2: idk</li>
+                    	<li>March 16: idk</li>
             	</ul>
 
              	<p><b>Associates Payment Plan</b></p>	
                 <ul>
-			<li>Pay full September 18: $55</li>
-                    	<li>September 18: $20</li>
-                	<li>October 2: $20</li>
-                    	<li>October 16: $15</li>
+			<li>Pay full February 18: idk</li>
+                    	<li>February 18: idk</li>
+                	<li>March 2: idk</li>
+                    	<li>March 16: idk</li>
             	</ul>
 
 		<p><b>New Members Payment Plan</b></p>	
                 <ul>
-                    	<li>Pay in full October 9: $270</li>
-                	<li>October 9: $90</li>
-                    	<li>October 23: $90</li>
-			<li>November 6: $90</li>
+                    	<li>Pay in full February 18: idk</li>
+                	<li>February 18: idk</li>
+                    	<li>March 23: idk</li>
+			<li>April 6: idk</li>
             	</ul>
 				<p><b>*If you do not pay your dues and do not communicate with the VPs, we will have to freeze your account until the matter is resolved.</b></p>
 				
 				<h3>Reimbursements</h3>
 				
-				<p>In order to get reimbursed, please send your receipts to Meghan Wong or AJ at finance.apousc@gmail.com.</p>
+				<p>In order to get reimbursed, please send your receipts to Lucas or Aaron at finance.apousc@gmail.com.</p>
 		<ul>
                     <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSd0nd02MoRbVgkwZT6OhJLNTk_32ImTp_-a9OXPXTaIPRyu5w/viewform' target = "_blank">Driver Reimbursement Car Information Form</a></li>
 		    <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSeSl-QxqiJYhMqlzUSkmPFMEoPXSrhK12pF6SSxBkLiijluZQ/viewform' target = "_blank">Driver Reimbursement Request</a></li>
