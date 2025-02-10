@@ -42,18 +42,18 @@ include_once("include/topnav.php");
 			<li><a href='https://forms.gle/sTVAQgdq4QZmtM3r9' target = "_blank">Payment Plan Adjustment Request</a></li>
 			<li><a href='https://forms.gle/k3RaFyR37JPe247o6' target = "_blank">Chapter Retreat Auction</a></li>
 <!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1PXuN3l-g1iufoe9mkM1dk4oTXMJSzb-WA9KnPFyFqRw/edit#gid=0' target = "_blank">Extra Fundraising Point Oppprtunities - Spring 2023</a></li>
-<!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1x9XIh9mjRXdK5HI4_aqES2yVP0TQ-4vDHp-YxXfPsJo/edit?usp=sharing' target = "_blank">Semester Calendar</a></li> --> -->
+<!-- 			<li><a href='https://docs.google.com/spreadsheets/d/1x9XIh9mjRXdK5HI4_aqES2yVP0TQ-4vDHp-YxXfPsJo/edit?usp=sharing' target = "_blank">Semester Calendar</a></li> -->
                 </ul>
                 
                 <h3>Dues</h3>
                 <p>Please contact Lucas or Aaron if you need additional financial accommodations for our payment plans.</p>
 		<p>Payments due @ 11:59 PM of each deadline or your account will be frozen :(</p>
-		<h4><b>Actives: idk</b></h4>
-                <h4><b>Associates: idk</b></h4>
+		<h4><b>Actives: $125 for early bird, $140 for regular</b></h4>
+                <h4><b>Associates: $50</b></h4>
 		<h4><b>New Members: idk</b></h4>
 		<p><b>Actives Payment Plan</b></p>	
                 <ul>
-			<li>Pay full February 18: idk</li>
+			<li>Pay full February 12: $125</li>
                     	<li>February 18: idk</li>
                     	<li>March 2: idk</li>
                     	<li>March 16: idk</li>
@@ -61,7 +61,7 @@ include_once("include/topnav.php");
 
              	<p><b>Associates Payment Plan</b></p>	
                 <ul>
-			<li>Pay full February 18: idk</li>
+			<li>Pay full February 18: $50</li>
                     	<li>February 18: idk</li>
                 	<li>March 2: idk</li>
                     	<li>March 16: idk</li>
