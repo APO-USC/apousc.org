@@ -1695,30 +1695,30 @@ date_default_timezone_set('America/Los_Angeles');
 	{
 		if (($this->position >= 1 && $this->position <= 20)|| $this->position == 33 || $this->position == -1 || $this->isAdmin() ||
 		   $this->username == "yangjust" || // webmaster
-		   $this->username == "eafflick" || // pledge master
-		   $this->username == "hongheat" || // pauntie
-		   $this->username == "cnthai" || // pauntie
-		   $this->username == "bjtran" || // pauntie
-		   $this->username == "rmandavi" || // service
-		   $this->username == "ekunz" || // service
-		   $this->username == "dmacaren" || // membership
-		   $this->username == "tqsanfor" || // membership
-		   $this->username == "armahade" || // fellowship
-		   $this->username == "sacho" || // fellowship
-		   $this->username == "emariano" || // finance
-		   $this->username == "ywang280" || // finance
-		   $this->username == "easu" || // communications
-		   $this->username == "ricaldeb" || // interchapter
-		   $this->username == "monnawei" || // sec
-		   $this->username == "loddi" || // almuni
-		   $this->username == "jebreo" || // historian
-		   $this->username == "licup" || // phil
-		   $this->username == "jvho" || // phil
-		   $this->username == "bussayab" || // rush
-		   $this->username == "bguarin" || // rush
-		   $this->username == "emilymoj" || // d&i
-		    $this->username == "bgiang" || // d&i
-		   $this->username == "tiamson"  // president
+		   $this->username == "sandyphu" || // pledge master
+		   $this->username == "emilymoj" || // pauntie
+		   $this->username == "bgiang" || // pauntie
+		   $this->username == "katiek" || // pauntie
+		   $this->username == "ratran" || // service
+		   $this->username == "adkim" || // service
+		   $this->username == "easu" || // membership
+		   $this->username == "mylee" || // membership
+		   $this->username == "ekha" || // fellowship
+		   $this->username == "tizadi" || // fellowship
+		   $this->username == "ljerry" || // finance
+		   $this->username == "aping" || // finance
+		   $this->username == "briszole" || // communications
+		   $this->username == "jkearn" || // interchapter
+		   $this->username == "jvho" || // sec
+		   $this->username == "br35685" || // almuni
+		   $this->username == "jaehcho" || // historian
+		   $this->username == "armahade" || // phil
+		   $this->username == "blaugrun" || // phil
+		   $this->username == "jebreo" || // rush
+		   $this->username == "licup" || // rush
+		   $this->username == "shawnshi" || // d&i
+		    $this->username == "pitaknar" || // d&i
+		   $this->username == "ricaldeb"  // president
 // 		   $this->username == "ggenito" ||// omega fam head
 // 		   $this->username == "lntran" || // phi fam head
 // 		   $this->username == "jennaogi" // alpha fam head
